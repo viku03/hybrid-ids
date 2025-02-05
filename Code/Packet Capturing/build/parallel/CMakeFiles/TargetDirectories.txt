@@ -1,0 +1,3 @@
+/Users/Viku/GitHub/hybrid-ids/Code/Packet Capturing/build/parallel/CMakeFiles/parallel_nids.dir
+/Users/Viku/GitHub/hybrid-ids/Code/Packet Capturing/build/parallel/CMakeFiles/edit_cache.dir
+/Users/Viku/GitHub/hybrid-ids/Code/Packet Capturing/build/parallel/CMakeFiles/rebuild_cache.dir

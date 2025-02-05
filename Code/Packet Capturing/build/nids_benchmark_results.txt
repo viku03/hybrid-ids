@@ -1,0 +1,6991 @@
+Using 8 OpenMP threads
+Using MPS device for acceleration
+Model loaded successfully
+NIDS initialized with 8 OpenMP threads
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 2, Total Bytes: 1261
+Model Raw Output: 0.0001 *
+-9.9276 -69155.5882
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9990  0.0010
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.999008
+Class 1 Probability: 0.000992227
+Predicted Class: 0, Confidence: 0.999008
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 3, Total Bytes: 1739
+Model Raw Output: 0.0001 *
+-9.6537 -69434.7239
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9990  0.0010
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.999035
+Class 1 Probability: 0.000964913
+Predicted Class: 0, Confidence: 0.999035
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 4, Total Bytes: 2068
+Model Raw Output: 0.001 *
+-2.5422 -5975.9946
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9975  0.0025
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.997461
+Class 1 Probability: 0.00253897
+Predicted Class: 0, Confidence: 0.997461
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 5, Total Bytes: 2951
+Model Raw Output: 0.001 *
+-5.1273 -5275.7545
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9949  0.0051
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.994886
+Class 1 Probability: 0.0051141
+Predicted Class: 0, Confidence: 0.994886
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 6, Total Bytes: 3606
+Model Raw Output: 0.0001 *
+-4.4574 -77161.2310
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9996  0.0004
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.999554
+Class 1 Probability: 0.000445585
+Predicted Class: 0, Confidence: 0.999554
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 7, Total Bytes: 4167
+Model Raw Output: 0.001 *
+-1.0774 -6833.7336
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9989  0.0011
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.998923
+Class 1 Probability: 0.00107683
+Predicted Class: 0, Confidence: 0.998923
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 8, Total Bytes: 4415
+Model Raw Output: 0.001 *
+-1.4991 -6503.6373
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9985  0.0015
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.998502
+Class 1 Probability: 0.00149798
+Predicted Class: 0, Confidence: 0.998502
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 9, Total Bytes: 5511
+Model Raw Output: 0.001 *
+-8.7731 -4740.4523
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9913  0.0087
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.991265
+Class 1 Probability: 0.0087347
+Predicted Class: 0, Confidence: 0.991265
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 10, Total Bytes: 5650
+Model Raw Output: 0.001 *
+-9.6972 -4640.7561
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9903  0.0097
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.99035
+Class 1 Probability: 0.0096504
+Predicted Class: 0, Confidence: 0.99035
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 11, Total Bytes: 5981
+Model Raw Output: 0.01 *
+-1.1232 -449.4611
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9888  0.0112
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.988831
+Class 1 Probability: 0.011169
+Predicted Class: 0, Confidence: 0.988831
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 12, Total Bytes: 6821
+Model Raw Output: 0.01 *
+-1.4417 -424.6540
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9857  0.0143
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.985686
+Class 1 Probability: 0.0143137
+Predicted Class: 0, Confidence: 0.985686
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 13, Total Bytes: 7041
+Model Raw Output: 0.01 *
+-1.4675 -422.8919
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9854  0.0146
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.985432
+Class 1 Probability: 0.0145681
+Predicted Class: 0, Confidence: 0.985432
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 14, Total Bytes: 7582
+Model Raw Output: 0.01 *
+-1.5036 -420.4850
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9851  0.0149
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.985077
+Class 1 Probability: 0.014923
+Predicted Class: 0, Confidence: 0.985077
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 15, Total Bytes: 7822
+Model Raw Output: 0.01 *
+-1.4998 -420.7347
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9851  0.0149
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.985114
+Class 1 Probability: 0.0148858
+Predicted Class: 0, Confidence: 0.985114
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 16, Total Bytes: 8735
+Model Raw Output: 0.01 *
+-1.5619 -416.7072
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9845  0.0155
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.984502
+Class 1 Probability: 0.0154976
+Predicted Class: 0, Confidence: 0.984502
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 17, Total Bytes: 9306
+Model Raw Output: 0.01 *
+-3.7177 -331.0589
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9635  0.0365
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.963505
+Class 1 Probability: 0.0364947
+Predicted Class: 0, Confidence: 0.963505
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 18, Total Bytes: 10364
+Model Raw Output: 0.01 *
+-4.3549 -315.5569
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9574  0.0426
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.957386
+Class 1 Probability: 0.0426141
+Predicted Class: 0, Confidence: 0.957386
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 19, Total Bytes: 10901
+Model Raw Output: 0.01 *
+-4.6258 -309.6557
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9548  0.0452
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.954795
+Class 1 Probability: 0.0452046
+Predicted Class: 0, Confidence: 0.954795
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 20, Total Bytes: 12134
+Model Raw Output: 0.01 *
+-1.5936 -414.7108
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9842  0.0158
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.98419
+Class 1 Probability: 0.0158101
+Predicted Class: 0, Confidence: 0.98419
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 21, Total Bytes: 12358
+Model Raw Output: 0.01 *
+-1.7200 -407.1413
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9829  0.0171
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.982947
+Class 1 Probability: 0.0170533
+Predicted Class: 0, Confidence: 0.982947
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 22, Total Bytes: 12621
+Model Raw Output: 0.01 *
+-1.8886 -397.8749
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9813  0.0187
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.981291
+Class 1 Probability: 0.018709
+Predicted Class: 0, Confidence: 0.981291
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 23, Total Bytes: 13286
+Model Raw Output: 0.01 *
+-1.9639 -394.0038
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9806  0.0194
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.980552
+Class 1 Probability: 0.0194475
+Predicted Class: 0, Confidence: 0.980552
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 24, Total Bytes: 13937
+Model Raw Output: 0.01 *
+-1.9075 -396.8896
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9811  0.0189
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.981106
+Class 1 Probability: 0.0188943
+Predicted Class: 0, Confidence: 0.981106
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 25, Total Bytes: 14351
+Model Raw Output: 0.01 *
+-1.9707 -393.6639
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9805  0.0195
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.980486
+Class 1 Probability: 0.0195137
+Predicted Class: 0, Confidence: 0.980486
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 26, Total Bytes: 15240
+Model Raw Output: 0.01 *
+-4.3381 -315.9349
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9575  0.0425
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.957547
+Class 1 Probability: 0.0424534
+Predicted Class: 0, Confidence: 0.957547
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 27, Total Bytes: 16143
+Model Raw Output: 0.01 *
+-5.3702 -295.1035
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9477  0.0523
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.947714
+Class 1 Probability: 0.0522855
+Predicted Class: 0, Confidence: 0.947714
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 28, Total Bytes: 16953
+Model Raw Output: 0.01 *
+-5.6928 -289.4305
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9447  0.0553
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.944663
+Class 1 Probability: 0.0553375
+Predicted Class: 0, Confidence: 0.944663
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 29, Total Bytes: 17489
+Model Raw Output: 0.01 *
+-5.7944 -287.7116
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9437  0.0563
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.943703
+Class 1 Probability: 0.0562969
+Predicted Class: 0, Confidence: 0.943703
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 30, Total Bytes: 18452
+Model Raw Output: 0.01 *
+-5.0740 -300.6296
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9505  0.0495
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.950525
+Class 1 Probability: 0.0494746
+Predicted Class: 0, Confidence: 0.950525
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 31, Total Bytes: 18968
+Model Raw Output: 0.01 *
+-4.8487 -305.0604
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9527  0.0473
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.95267
+Class 1 Probability: 0.0473303
+Predicted Class: 0, Confidence: 0.95267
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 32, Total Bytes: 20043
+Model Raw Output: 0.01 *
+-5.2955 -296.4669
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9484  0.0516
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.948422
+Class 1 Probability: 0.0515775
+Predicted Class: 0, Confidence: 0.948422
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 33, Total Bytes: 20552
+Model Raw Output: 0.01 *
+-5.6186 -290.7055
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945364
+Class 1 Probability: 0.0546364
+Predicted Class: 0, Confidence: 0.945364
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 34, Total Bytes: 21550
+Model Raw Output: 0.01 *
+-5.5471 -291.9495
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946039
+Class 1 Probability: 0.0539609
+Predicted Class: 0, Confidence: 0.946039
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 35, Total Bytes: 21628
+Model Raw Output: 0.01 *
+-5.5586 -291.7489
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945931
+Class 1 Probability: 0.0540693
+Predicted Class: 0, Confidence: 0.945931
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 36, Total Bytes: 23123
+Model Raw Output: 0.01 *
+-5.5104 -292.5963
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9464  0.0536
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946387
+Class 1 Probability: 0.053613
+Predicted Class: 0, Confidence: 0.946387
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 37, Total Bytes: 23826
+Model Raw Output: 0.01 *
+-5.5120 -292.5683
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9464  0.0536
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946372
+Class 1 Probability: 0.0536281
+Predicted Class: 0, Confidence: 0.946372
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 38, Total Bytes: 23964
+Model Raw Output: 0.01 *
+-5.5200 -292.4265
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9463  0.0537
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946296
+Class 1 Probability: 0.0537041
+Predicted Class: 0, Confidence: 0.946296
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 39, Total Bytes: 24653
+Model Raw Output: 0.01 *
+-5.5236 -292.3638
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9463  0.0537
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946262
+Class 1 Probability: 0.0537378
+Predicted Class: 0, Confidence: 0.946262
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 40, Total Bytes: 25328
+Model Raw Output: 0.01 *
+-5.5270 -292.3028
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9462  0.0538
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946229
+Class 1 Probability: 0.0537706
+Predicted Class: 0, Confidence: 0.946229
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 41, Total Bytes: 25806
+Model Raw Output: 0.01 *
+-5.5316 -292.2227
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9462  0.0538
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946186
+Class 1 Probability: 0.0538137
+Predicted Class: 0, Confidence: 0.946186
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 42, Total Bytes: 27185
+Model Raw Output: 0.01 *
+-5.5302 -292.2468
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9462  0.0538
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946199
+Class 1 Probability: 0.0538007
+Predicted Class: 0, Confidence: 0.946199
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 43, Total Bytes: 27499
+Model Raw Output: 0.01 *
+-5.5354 -292.1564
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9462  0.0538
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946151
+Class 1 Probability: 0.0538494
+Predicted Class: 0, Confidence: 0.946151
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 44, Total Bytes: 27641
+Model Raw Output: 0.01 *
+-5.5412 -292.0539
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9461  0.0539
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946095
+Class 1 Probability: 0.0539046
+Predicted Class: 0, Confidence: 0.946095
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 45, Total Bytes: 28372
+Model Raw Output: 0.01 *
+-5.5433 -292.0161
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9461  0.0539
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946075
+Class 1 Probability: 0.053925
+Predicted Class: 0, Confidence: 0.946075
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 46, Total Bytes: 28524
+Model Raw Output: 0.01 *
+-5.5485 -291.9249
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946026
+Class 1 Probability: 0.0539742
+Predicted Class: 0, Confidence: 0.946026
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 47, Total Bytes: 29113
+Model Raw Output: 0.01 *
+-5.5511 -291.8795
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.946001
+Class 1 Probability: 0.0539987
+Predicted Class: 0, Confidence: 0.946001
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 48, Total Bytes: 30379
+Model Raw Output: 0.01 *
+-5.5502 -291.8965
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94601
+Class 1 Probability: 0.0539895
+Predicted Class: 0, Confidence: 0.94601
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 49, Total Bytes: 30619
+Model Raw Output: 0.01 *
+-5.5543 -291.8246
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945972
+Class 1 Probability: 0.0540284
+Predicted Class: 0, Confidence: 0.945972
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 50, Total Bytes: 31512
+Model Raw Output: 0.01 *
+-5.5551 -291.8103
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945964
+Class 1 Probability: 0.0540361
+Predicted Class: 0, Confidence: 0.945964
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 51, Total Bytes: 31702
+Model Raw Output: 0.01 *
+-5.5590 -291.7409
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945926
+Class 1 Probability: 0.0540736
+Predicted Class: 0, Confidence: 0.945926
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 52, Total Bytes: 33149
+Model Raw Output: 0.01 *
+-5.5574 -291.7706
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945942
+Class 1 Probability: 0.0540575
+Predicted Class: 0, Confidence: 0.945942
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 53, Total Bytes: 34468
+Model Raw Output: 0.01 *
+-5.5564 -291.7867
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945951
+Class 1 Probability: 0.0540489
+Predicted Class: 0, Confidence: 0.945951
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 54, Total Bytes: 35412
+Model Raw Output: 0.01 *
+-5.5571 -291.7749
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945945
+Class 1 Probability: 0.0540552
+Predicted Class: 0, Confidence: 0.945945
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 55, Total Bytes: 36452
+Model Raw Output: 0.01 *
+-5.5575 -291.7687
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945941
+Class 1 Probability: 0.0540586
+Predicted Class: 0, Confidence: 0.945941
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 56, Total Bytes: 37862
+Model Raw Output: 0.01 *
+-5.5566 -291.7832
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945949
+Class 1 Probability: 0.0540507
+Predicted Class: 0, Confidence: 0.945949
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 57, Total Bytes: 39305
+Model Raw Output: 0.01 *
+-5.5559 -291.7968
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945957
+Class 1 Probability: 0.0540434
+Predicted Class: 0, Confidence: 0.945957
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 58, Total Bytes: 40325
+Model Raw Output: 0.01 *
+-5.5565 -291.7858
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9460  0.0540
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945951
+Class 1 Probability: 0.0540493
+Predicted Class: 0, Confidence: 0.945951
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 59, Total Bytes: 40889
+Model Raw Output: 0.01 *
+-5.5584 -291.7521
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945932
+Class 1 Probability: 0.0540676
+Predicted Class: 0, Confidence: 0.945932
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 60, Total Bytes: 41302
+Model Raw Output: 0.01 *
+-5.5607 -291.7124
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945911
+Class 1 Probability: 0.054089
+Predicted Class: 0, Confidence: 0.945911
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 61, Total Bytes: 41818
+Model Raw Output: 0.01 *
+-5.5626 -291.6795
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945893
+Class 1 Probability: 0.0541068
+Predicted Class: 0, Confidence: 0.945893
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 62, Total Bytes: 43015
+Model Raw Output: 0.01 *
+-5.5626 -291.6794
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945893
+Class 1 Probability: 0.0541069
+Predicted Class: 0, Confidence: 0.945893
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 63, Total Bytes: 44041
+Model Raw Output: 0.01 *
+-5.5631 -291.6709
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945889
+Class 1 Probability: 0.0541115
+Predicted Class: 0, Confidence: 0.945889
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 64, Total Bytes: 44144
+Model Raw Output: 0.01 *
+-5.5658 -291.6230
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9459  0.0541
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945863
+Class 1 Probability: 0.0541374
+Predicted Class: 0, Confidence: 0.945863
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 65, Total Bytes: 44577
+Model Raw Output: 0.01 *
+-5.5676 -291.5907
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945845
+Class 1 Probability: 0.0541549
+Predicted Class: 0, Confidence: 0.945845
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 66, Total Bytes: 45617
+Model Raw Output: 0.01 *
+-5.5680 -291.5847
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945842
+Class 1 Probability: 0.0541581
+Predicted Class: 0, Confidence: 0.945842
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 67, Total Bytes: 46658
+Model Raw Output: 0.01 *
+-5.5683 -291.5787
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945839
+Class 1 Probability: 0.0541614
+Predicted Class: 0, Confidence: 0.945839
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 68, Total Bytes: 48112
+Model Raw Output: 0.01 *
+-5.5678 -291.5875
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945843
+Class 1 Probability: 0.0541566
+Predicted Class: 0, Confidence: 0.945843
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 69, Total Bytes: 48829
+Model Raw Output: 0.01 *
+-5.5689 -291.5687
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945833
+Class 1 Probability: 0.0541668
+Predicted Class: 0, Confidence: 0.945833
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 70, Total Bytes: 49435
+Model Raw Output: 0.01 *
+-5.5702 -291.5465
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945821
+Class 1 Probability: 0.0541788
+Predicted Class: 0, Confidence: 0.945821
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 71, Total Bytes: 49540
+Model Raw Output: 0.01 *
+-5.5723 -291.5089
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945801
+Class 1 Probability: 0.0541992
+Predicted Class: 0, Confidence: 0.945801
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 72, Total Bytes: 49987
+Model Raw Output: 0.01 *
+-5.5738 -291.4832
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945787
+Class 1 Probability: 0.0542131
+Predicted Class: 0, Confidence: 0.945787
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 73, Total Bytes: 51369
+Model Raw Output: 0.01 *
+-5.5735 -291.4892
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94579
+Class 1 Probability: 0.0542099
+Predicted Class: 0, Confidence: 0.94579
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 74, Total Bytes: 51913
+Model Raw Output: 0.01 *
+-5.5747 -291.4677
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945778
+Class 1 Probability: 0.0542215
+Predicted Class: 0, Confidence: 0.945778
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 75, Total Bytes: 52417
+Model Raw Output: 0.01 *
+-5.5759 -291.4459
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945767
+Class 1 Probability: 0.0542334
+Predicted Class: 0, Confidence: 0.945767
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 76, Total Bytes: 53603
+Model Raw Output: 0.01 *
+-5.5760 -291.4453
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945766
+Class 1 Probability: 0.0542337
+Predicted Class: 0, Confidence: 0.945766
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 77, Total Bytes: 54069
+Model Raw Output: 0.01 *
+-5.5772 -291.4233
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945754
+Class 1 Probability: 0.0542456
+Predicted Class: 0, Confidence: 0.945754
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 78, Total Bytes: 55099
+Model Raw Output: 0.01 *
+-5.5775 -291.4191
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9458  0.0542
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945752
+Class 1 Probability: 0.0542479
+Predicted Class: 0, Confidence: 0.945752
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 79, Total Bytes: 55923
+Model Raw Output: 0.01 *
+-5.5781 -291.4081
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945746
+Class 1 Probability: 0.0542539
+Predicted Class: 0, Confidence: 0.945746
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 80, Total Bytes: 57171
+Model Raw Output: 0.01 *
+-5.5780 -291.4099
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945747
+Class 1 Probability: 0.0542529
+Predicted Class: 0, Confidence: 0.945747
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 81, Total Bytes: 58504
+Model Raw Output: 0.01 *
+-5.5778 -291.4135
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945749
+Class 1 Probability: 0.0542509
+Predicted Class: 0, Confidence: 0.945749
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 82, Total Bytes: 59084
+Model Raw Output: 0.01 *
+-5.5787 -291.3970
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94574
+Class 1 Probability: 0.0542599
+Predicted Class: 0, Confidence: 0.94574
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 83, Total Bytes: 60513
+Model Raw Output: 0.01 *
+-5.5785 -291.4011
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945742
+Class 1 Probability: 0.0542576
+Predicted Class: 0, Confidence: 0.945742
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 84, Total Bytes: 61172
+Model Raw Output: 0.01 *
+-5.5793 -291.3869
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945735
+Class 1 Probability: 0.0542654
+Predicted Class: 0, Confidence: 0.945735
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 85, Total Bytes: 62040
+Model Raw Output: 0.01 *
+-5.5798 -291.3779
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94573
+Class 1 Probability: 0.0542703
+Predicted Class: 0, Confidence: 0.94573
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 86, Total Bytes: 63537
+Model Raw Output: 0.01 *
+-5.5796 -291.3824
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945732
+Class 1 Probability: 0.0542678
+Predicted Class: 0, Confidence: 0.945732
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 87, Total Bytes: 63927
+Model Raw Output: 0.01 *
+-5.5807 -291.3632
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945722
+Class 1 Probability: 0.0542782
+Predicted Class: 0, Confidence: 0.945722
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 88, Total Bytes: 64962
+Model Raw Output: 0.01 *
+-5.5810 -291.3579
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945719
+Class 1 Probability: 0.0542811
+Predicted Class: 0, Confidence: 0.945719
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 89, Total Bytes: 66348
+Model Raw Output: 0.01 *
+-5.5809 -291.3595
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94572
+Class 1 Probability: 0.0542802
+Predicted Class: 0, Confidence: 0.94572
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 90, Total Bytes: 67487
+Model Raw Output: 0.01 *
+-5.5811 -291.3559
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945718
+Class 1 Probability: 0.0542822
+Predicted Class: 0, Confidence: 0.945718
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 91, Total Bytes: 68016
+Model Raw Output: 0.01 *
+-5.5820 -291.3409
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94571
+Class 1 Probability: 0.0542903
+Predicted Class: 0, Confidence: 0.94571
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 92, Total Bytes: 68831
+Model Raw Output: 0.01 *
+-5.5825 -291.3315
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945705
+Class 1 Probability: 0.0542955
+Predicted Class: 0, Confidence: 0.945705
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 93, Total Bytes: 70304
+Model Raw Output: 0.01 *
+-5.5824 -291.3339
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945706
+Class 1 Probability: 0.0542941
+Predicted Class: 0, Confidence: 0.945706
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 94, Total Bytes: 71452
+Model Raw Output: 0.01 *
+-5.5826 -291.3302
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945704
+Class 1 Probability: 0.0542961
+Predicted Class: 0, Confidence: 0.945704
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 95, Total Bytes: 71815
+Model Raw Output: 0.01 *
+-5.5835 -291.3135
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945695
+Class 1 Probability: 0.0543052
+Predicted Class: 0, Confidence: 0.945695
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 96, Total Bytes: 72296
+Model Raw Output: 0.01 *
+-5.5844 -291.2992
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945687
+Class 1 Probability: 0.054313
+Predicted Class: 0, Confidence: 0.945687
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 97, Total Bytes: 73045
+Model Raw Output: 0.01 *
+-5.5849 -291.2895
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945682
+Class 1 Probability: 0.0543183
+Predicted Class: 0, Confidence: 0.945682
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 98, Total Bytes: 73814
+Model Raw Output: 0.01 *
+-5.5854 -291.2804
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945677
+Class 1 Probability: 0.0543232
+Predicted Class: 0, Confidence: 0.945677
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 99, Total Bytes: 74265
+Model Raw Output: 0.01 *
+-5.5862 -291.2664
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945669
+Class 1 Probability: 0.0543308
+Predicted Class: 0, Confidence: 0.945669
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 100, Total Bytes: 75228
+Model Raw Output: 0.01 *
+-5.5866 -291.2606
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945666
+Class 1 Probability: 0.0543339
+Predicted Class: 0, Confidence: 0.945666
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 101, Total Bytes: 76643
+Model Raw Output: 0.01 *
+-5.5865 -291.2616
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945667
+Class 1 Probability: 0.0543334
+Predicted Class: 0, Confidence: 0.945667
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 102, Total Bytes: 77151
+Model Raw Output: 0.01 *
+-5.5872 -291.2492
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94566
+Class 1 Probability: 0.0543401
+Predicted Class: 0, Confidence: 0.94566
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 103, Total Bytes: 77248
+Model Raw Output: 0.01 *
+-5.5883 -291.2313
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9457  0.0543
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94565
+Class 1 Probability: 0.0543498
+Predicted Class: 0, Confidence: 0.94565
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 104, Total Bytes: 78070
+Model Raw Output: 0.01 *
+-5.5887 -291.2241
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945646
+Class 1 Probability: 0.0543538
+Predicted Class: 0, Confidence: 0.945646
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 105, Total Bytes: 78393
+Model Raw Output: 0.01 *
+-5.5895 -291.2101
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945639
+Class 1 Probability: 0.0543614
+Predicted Class: 0, Confidence: 0.945639
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 106, Total Bytes: 79778
+Model Raw Output: 0.01 *
+-5.5894 -291.2109
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945639
+Class 1 Probability: 0.054361
+Predicted Class: 0, Confidence: 0.945639
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 107, Total Bytes: 80548
+Model Raw Output: 0.01 *
+-5.5899 -291.2035
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945635
+Class 1 Probability: 0.054365
+Predicted Class: 0, Confidence: 0.945635
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 108, Total Bytes: 82000
+Model Raw Output: 0.01 *
+-5.5898 -291.2050
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945636
+Class 1 Probability: 0.0543641
+Predicted Class: 0, Confidence: 0.945636
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 109, Total Bytes: 82055
+Model Raw Output: 0.01 *
+-5.5907 -291.1887
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945627
+Class 1 Probability: 0.054373
+Predicted Class: 0, Confidence: 0.945627
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 110, Total Bytes: 82555
+Model Raw Output: 0.01 *
+-5.5913 -291.1783
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945621
+Class 1 Probability: 0.0543787
+Predicted Class: 0, Confidence: 0.945621
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 111, Total Bytes: 83751
+Model Raw Output: 0.01 *
+-5.5914 -291.1768
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94562
+Class 1 Probability: 0.0543795
+Predicted Class: 0, Confidence: 0.94562
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 112, Total Bytes: 84120
+Model Raw Output: 0.01 *
+-5.5921 -291.1653
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945614
+Class 1 Probability: 0.0543858
+Predicted Class: 0, Confidence: 0.945614
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 113, Total Bytes: 85513
+Model Raw Output: 0.01 *
+-5.5920 -291.1661
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945615
+Class 1 Probability: 0.0543853
+Predicted Class: 0, Confidence: 0.945615
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 114, Total Bytes: 85822
+Model Raw Output: 0.01 *
+-5.5927 -291.1541
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945608
+Class 1 Probability: 0.0543918
+Predicted Class: 0, Confidence: 0.945608
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 115, Total Bytes: 85948
+Model Raw Output: 0.01 *
+-5.5935 -291.1404
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945601
+Class 1 Probability: 0.0543993
+Predicted Class: 0, Confidence: 0.945601
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 116, Total Bytes: 87014
+Model Raw Output: 0.01 *
+-5.5936 -291.1377
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945599
+Class 1 Probability: 0.0544007
+Predicted Class: 0, Confidence: 0.945599
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 117, Total Bytes: 88048
+Model Raw Output: 0.01 *
+-5.5938 -291.1346
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945598
+Class 1 Probability: 0.0544024
+Predicted Class: 0, Confidence: 0.945598
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 118, Total Bytes: 88143
+Model Raw Output: 0.01 *
+-5.5946 -291.1212
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94559
+Class 1 Probability: 0.0544097
+Predicted Class: 0, Confidence: 0.94559
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 119, Total Bytes: 89544
+Model Raw Output: 0.01 *
+-5.5945 -291.1223
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945591
+Class 1 Probability: 0.0544092
+Predicted Class: 0, Confidence: 0.945591
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 120, Total Bytes: 90181
+Model Raw Output: 0.01 *
+-5.5949 -291.1151
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945587
+Class 1 Probability: 0.0544131
+Predicted Class: 0, Confidence: 0.945587
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 121, Total Bytes: 90981
+Model Raw Output: 0.01 *
+-5.5953 -291.1097
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945584
+Class 1 Probability: 0.054416
+Predicted Class: 0, Confidence: 0.945584
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 122, Total Bytes: 91806
+Model Raw Output: 0.01 *
+-5.5955 -291.1047
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945581
+Class 1 Probability: 0.0544187
+Predicted Class: 0, Confidence: 0.945581
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 123, Total Bytes: 92825
+Model Raw Output: 0.01 *
+-5.5957 -291.1017
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94558
+Class 1 Probability: 0.0544203
+Predicted Class: 0, Confidence: 0.94558
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 124, Total Bytes: 93539
+Model Raw Output: 0.01 *
+-5.5961 -291.0958
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945576
+Class 1 Probability: 0.0544236
+Predicted Class: 0, Confidence: 0.945576
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 125, Total Bytes: 94062
+Model Raw Output: 0.01 *
+-5.5965 -291.0881
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945572
+Class 1 Probability: 0.0544277
+Predicted Class: 0, Confidence: 0.945572
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 126, Total Bytes: 94431
+Model Raw Output: 0.01 *
+-5.5970 -291.0791
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945567
+Class 1 Probability: 0.0544326
+Predicted Class: 0, Confidence: 0.945567
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 127, Total Bytes: 95666
+Model Raw Output: 0.01 *
+-5.5971 -291.0784
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945567
+Class 1 Probability: 0.054433
+Predicted Class: 0, Confidence: 0.945567
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 128, Total Bytes: 97102
+Model Raw Output: 0.01 *
+-5.5970 -291.0794
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945568
+Class 1 Probability: 0.0544325
+Predicted Class: 0, Confidence: 0.945568
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 129, Total Bytes: 97537
+Model Raw Output: 0.01 *
+-5.5975 -291.0713
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945563
+Class 1 Probability: 0.0544369
+Predicted Class: 0, Confidence: 0.945563
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 130, Total Bytes: 98468
+Model Raw Output: 0.01 *
+-5.5977 -291.0678
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945561
+Class 1 Probability: 0.0544388
+Predicted Class: 0, Confidence: 0.945561
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 131, Total Bytes: 98568
+Model Raw Output: 0.01 *
+-5.5983 -291.0572
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945555
+Class 1 Probability: 0.0544446
+Predicted Class: 0, Confidence: 0.945555
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 132, Total Bytes: 99816
+Model Raw Output: 0.01 *
+-5.5983 -291.0565
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945555
+Class 1 Probability: 0.0544449
+Predicted Class: 0, Confidence: 0.945555
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 133, Total Bytes: 100756
+Model Raw Output: 0.01 *
+-5.5985 -291.0533
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945553
+Class 1 Probability: 0.0544467
+Predicted Class: 0, Confidence: 0.945553
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 134, Total Bytes: 102066
+Model Raw Output: 0.01 *
+-5.5985 -291.0531
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945553
+Class 1 Probability: 0.0544468
+Predicted Class: 0, Confidence: 0.945553
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 135, Total Bytes: 103499
+Model Raw Output: 0.01 *
+-5.5985 -291.0537
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9456  0.0544
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945554
+Class 1 Probability: 0.0544465
+Predicted Class: 0, Confidence: 0.945554
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 136, Total Bytes: 103903
+Model Raw Output: 0.01 *
+-5.5989 -291.0462
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945549
+Class 1 Probability: 0.0544505
+Predicted Class: 0, Confidence: 0.945549
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 137, Total Bytes: 104395
+Model Raw Output: 0.01 *
+-5.5993 -291.0396
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945546
+Class 1 Probability: 0.0544542
+Predicted Class: 0, Confidence: 0.945546
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 138, Total Bytes: 105259
+Model Raw Output: 0.01 *
+-5.5995 -291.0359
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.0544562
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 139, Total Bytes: 106747
+Model Raw Output: 0.01 *
+-5.5995 -291.0368
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.0544557
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 140, Total Bytes: 108078
+Model Raw Output: 0.01 *
+-5.5995 -291.0365
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.0544558
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 141, Total Bytes: 109549
+Model Raw Output: 0.01 *
+-5.5994 -291.0370
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.0544556
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 142, Total Bytes: 110811
+Model Raw Output: 0.01 *
+-5.5995 -291.0361
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.0544561
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 143, Total Bytes: 112266
+Model Raw Output: 0.01 *
+-5.5995 -291.0363
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945544
+Class 1 Probability: 0.054456
+Predicted Class: 0, Confidence: 0.945544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 144, Total Bytes: 112396
+Model Raw Output: 0.01 *
+-5.6000 -291.0277
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945539
+Class 1 Probability: 0.0544606
+Predicted Class: 0, Confidence: 0.945539
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 145, Total Bytes: 113035
+Model Raw Output: 0.01 *
+-5.6002 -291.0230
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945537
+Class 1 Probability: 0.0544632
+Predicted Class: 0, Confidence: 0.945537
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 146, Total Bytes: 114284
+Model Raw Output: 0.01 *
+-5.6003 -291.0218
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945536
+Class 1 Probability: 0.0544638
+Predicted Class: 0, Confidence: 0.945536
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 147, Total Bytes: 114575
+Model Raw Output: 0.01 *
+-5.6007 -291.0146
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945532
+Class 1 Probability: 0.0544678
+Predicted Class: 0, Confidence: 0.945532
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 148, Total Bytes: 115142
+Model Raw Output: 0.01 *
+-5.6010 -291.0094
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945529
+Class 1 Probability: 0.0544706
+Predicted Class: 0, Confidence: 0.945529
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 149, Total Bytes: 115473
+Model Raw Output: 0.01 *
+-5.6014 -291.0027
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945526
+Class 1 Probability: 0.0544742
+Predicted Class: 0, Confidence: 0.945526
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 150, Total Bytes: 115607
+Model Raw Output: 0.01 *
+-5.6019 -290.9950
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945521
+Class 1 Probability: 0.0544785
+Predicted Class: 0, Confidence: 0.945521
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 151, Total Bytes: 116473
+Model Raw Output: 0.01 *
+-5.6020 -290.9918
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94552
+Class 1 Probability: 0.0544802
+Predicted Class: 0, Confidence: 0.94552
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 152, Total Bytes: 117935
+Model Raw Output: 0.01 *
+-5.6020 -290.9922
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94552
+Class 1 Probability: 0.05448
+Predicted Class: 0, Confidence: 0.94552
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 153, Total Bytes: 118791
+Model Raw Output: 0.01 *
+-5.6022 -290.9890
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945518
+Class 1 Probability: 0.0544817
+Predicted Class: 0, Confidence: 0.945518
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 154, Total Bytes: 119050
+Model Raw Output: 0.01 *
+-5.6026 -290.9823
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945515
+Class 1 Probability: 0.0544854
+Predicted Class: 0, Confidence: 0.945515
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 155, Total Bytes: 119148
+Model Raw Output: 0.01 *
+-5.6030 -290.9748
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945511
+Class 1 Probability: 0.0544894
+Predicted Class: 0, Confidence: 0.945511
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 156, Total Bytes: 119600
+Model Raw Output: 0.01 *
+-5.6033 -290.9696
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945508
+Class 1 Probability: 0.0544923
+Predicted Class: 0, Confidence: 0.945508
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 157, Total Bytes: 119706
+Model Raw Output: 0.01 *
+-5.6037 -290.9624
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945504
+Class 1 Probability: 0.0544962
+Predicted Class: 0, Confidence: 0.945504
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 158, Total Bytes: 121165
+Model Raw Output: 0.01 *
+-5.6037 -290.9630
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945504
+Class 1 Probability: 0.0544959
+Predicted Class: 0, Confidence: 0.945504
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 159, Total Bytes: 122226
+Model Raw Output: 0.01 *
+-5.6038 -290.9613
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945503
+Class 1 Probability: 0.0544968
+Predicted Class: 0, Confidence: 0.945503
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 160, Total Bytes: 123456
+Model Raw Output: 0.01 *
+-5.6039 -290.9604
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945503
+Class 1 Probability: 0.0544973
+Predicted Class: 0, Confidence: 0.945503
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 161, Total Bytes: 124787
+Model Raw Output: 0.01 *
+-5.6039 -290.9600
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945503
+Class 1 Probability: 0.0544975
+Predicted Class: 0, Confidence: 0.945503
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 162, Total Bytes: 125266
+Model Raw Output: 0.01 *
+-5.6042 -290.9552
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.9455
+Class 1 Probability: 0.0545001
+Predicted Class: 0, Confidence: 0.9455
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 163, Total Bytes: 125550
+Model Raw Output: 0.01 *
+-5.6045 -290.9496
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945497
+Class 1 Probability: 0.0545032
+Predicted Class: 0, Confidence: 0.945497
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 164, Total Bytes: 126562
+Model Raw Output: 0.01 *
+-5.6046 -290.9477
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945496
+Class 1 Probability: 0.0545043
+Predicted Class: 0, Confidence: 0.945496
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 165, Total Bytes: 127078
+Model Raw Output: 0.01 *
+-5.6048 -290.9432
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945493
+Class 1 Probability: 0.0545067
+Predicted Class: 0, Confidence: 0.945493
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 166, Total Bytes: 127976
+Model Raw Output: 0.01 *
+-5.6050 -290.9408
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945492
+Class 1 Probability: 0.054508
+Predicted Class: 0, Confidence: 0.945492
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 167, Total Bytes: 128688
+Model Raw Output: 0.01 *
+-5.6052 -290.9374
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94549
+Class 1 Probability: 0.0545098
+Predicted Class: 0, Confidence: 0.94549
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 168, Total Bytes: 129006
+Model Raw Output: 0.01 *
+-5.6055 -290.9322
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945487
+Class 1 Probability: 0.0545127
+Predicted Class: 0, Confidence: 0.945487
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 169, Total Bytes: 130024
+Model Raw Output: 0.01 *
+-5.6056 -290.9305
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945486
+Class 1 Probability: 0.0545136
+Predicted Class: 0, Confidence: 0.945486
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 170, Total Bytes: 131087
+Model Raw Output: 0.01 *
+-5.6057 -290.9290
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945486
+Class 1 Probability: 0.0545144
+Predicted Class: 0, Confidence: 0.945486
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 171, Total Bytes: 131914
+Model Raw Output: 0.01 *
+-5.6058 -290.9264
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945484
+Class 1 Probability: 0.0545159
+Predicted Class: 0, Confidence: 0.945484
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 172, Total Bytes: 132626
+Model Raw Output: 0.01 *
+-5.6060 -290.9232
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945482
+Class 1 Probability: 0.0545176
+Predicted Class: 0, Confidence: 0.945482
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 173, Total Bytes: 133224
+Model Raw Output: 0.01 *
+-5.6062 -290.9196
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94548
+Class 1 Probability: 0.0545195
+Predicted Class: 0, Confidence: 0.94548
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 174, Total Bytes: 134083
+Model Raw Output: 0.01 *
+-5.6063 -290.9172
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945479
+Class 1 Probability: 0.0545208
+Predicted Class: 0, Confidence: 0.945479
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 175, Total Bytes: 135496
+Model Raw Output: 0.01 *
+-5.6063 -290.9173
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945479
+Class 1 Probability: 0.0545208
+Predicted Class: 0, Confidence: 0.945479
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 176, Total Bytes: 136913
+Model Raw Output: 0.01 *
+-5.6063 -290.9174
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945479
+Class 1 Probability: 0.0545207
+Predicted Class: 0, Confidence: 0.945479
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 177, Total Bytes: 137954
+Model Raw Output: 0.01 *
+-5.6064 -290.9158
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945478
+Class 1 Probability: 0.0545216
+Predicted Class: 0, Confidence: 0.945478
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 178, Total Bytes: 138341
+Model Raw Output: 0.01 *
+-5.6067 -290.9115
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945476
+Class 1 Probability: 0.054524
+Predicted Class: 0, Confidence: 0.945476
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 179, Total Bytes: 139696
+Model Raw Output: 0.01 *
+-5.6067 -290.9112
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945476
+Class 1 Probability: 0.0545241
+Predicted Class: 0, Confidence: 0.945476
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 180, Total Bytes: 140430
+Model Raw Output: 0.01 *
+-5.6068 -290.9084
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945474
+Class 1 Probability: 0.0545256
+Predicted Class: 0, Confidence: 0.945474
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 181, Total Bytes: 140948
+Model Raw Output: 0.01 *
+-5.6071 -290.9048
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945472
+Class 1 Probability: 0.0545276
+Predicted Class: 0, Confidence: 0.945472
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 182, Total Bytes: 141255
+Model Raw Output: 0.01 *
+-5.6073 -290.9004
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94547
+Class 1 Probability: 0.05453
+Predicted Class: 0, Confidence: 0.94547
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 183, Total Bytes: 141430
+Model Raw Output: 0.01 *
+-5.6076 -290.8954
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945467
+Class 1 Probability: 0.0545327
+Predicted Class: 0, Confidence: 0.945467
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 184, Total Bytes: 142428
+Model Raw Output: 0.01 *
+-5.6077 -290.8938
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945466
+Class 1 Probability: 0.0545336
+Predicted Class: 0, Confidence: 0.945466
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 185, Total Bytes: 143348
+Model Raw Output: 0.01 *
+-5.6078 -290.8919
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945465
+Class 1 Probability: 0.0545346
+Predicted Class: 0, Confidence: 0.945465
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 186, Total Bytes: 144417
+Model Raw Output: 0.01 *
+-5.6079 -290.8906
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945465
+Class 1 Probability: 0.0545354
+Predicted Class: 0, Confidence: 0.945465
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 187, Total Bytes: 145261
+Model Raw Output: 0.01 *
+-5.6080 -290.8885
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945464
+Class 1 Probability: 0.0545365
+Predicted Class: 0, Confidence: 0.945464
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 188, Total Bytes: 146685
+Model Raw Output: 0.01 *
+-5.6080 -290.8885
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945464
+Class 1 Probability: 0.0545365
+Predicted Class: 0, Confidence: 0.945464
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 189, Total Bytes: 147507
+Model Raw Output: 0.01 *
+-5.6081 -290.8862
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945462
+Class 1 Probability: 0.0545377
+Predicted Class: 0, Confidence: 0.945462
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 190, Total Bytes: 148359
+Model Raw Output: 0.01 *
+-5.6082 -290.8841
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945461
+Class 1 Probability: 0.0545389
+Predicted Class: 0, Confidence: 0.945461
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 191, Total Bytes: 148673
+Model Raw Output: 0.01 *
+-5.6085 -290.8801
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945459
+Class 1 Probability: 0.0545411
+Predicted Class: 0, Confidence: 0.945459
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 192, Total Bytes: 150086
+Model Raw Output: 0.01 *
+-5.6085 -290.8801
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945459
+Class 1 Probability: 0.0545411
+Predicted Class: 0, Confidence: 0.945459
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 193, Total Bytes: 151518
+Model Raw Output: 0.01 *
+-5.6085 -290.8801
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945459
+Class 1 Probability: 0.0545411
+Predicted Class: 0, Confidence: 0.945459
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 194, Total Bytes: 151882
+Model Raw Output: 0.01 *
+-5.6087 -290.8764
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945457
+Class 1 Probability: 0.0545431
+Predicted Class: 0, Confidence: 0.945457
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 195, Total Bytes: 152973
+Model Raw Output: 0.01 *
+-5.6088 -290.8752
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945456
+Class 1 Probability: 0.0545438
+Predicted Class: 0, Confidence: 0.945456
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 196, Total Bytes: 153095
+Model Raw Output: 0.01 *
+-5.6090 -290.8708
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945454
+Class 1 Probability: 0.0545462
+Predicted Class: 0, Confidence: 0.945454
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 197, Total Bytes: 153741
+Model Raw Output: 0.01 *
+-5.6092 -290.8682
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945452
+Class 1 Probability: 0.0545476
+Predicted Class: 0, Confidence: 0.945452
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 198, Total Bytes: 154030
+Model Raw Output: 0.01 *
+-5.6094 -290.8644
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9455  0.0545
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94545
+Class 1 Probability: 0.0545496
+Predicted Class: 0, Confidence: 0.94545
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 199, Total Bytes: 154455
+Model Raw Output: 0.01 *
+-5.6096 -290.8611
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945449
+Class 1 Probability: 0.0545514
+Predicted Class: 0, Confidence: 0.945449
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 200, Total Bytes: 154890
+Model Raw Output: 0.01 *
+-5.6098 -290.8579
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945447
+Class 1 Probability: 0.0545532
+Predicted Class: 0, Confidence: 0.945447
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 201, Total Bytes: 155617
+Model Raw Output: 0.01 *
+-5.6099 -290.8556
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945446
+Class 1 Probability: 0.0545544
+Predicted Class: 0, Confidence: 0.945446
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 202, Total Bytes: 156112
+Model Raw Output: 0.01 *
+-5.6101 -290.8527
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945444
+Class 1 Probability: 0.054556
+Predicted Class: 0, Confidence: 0.945444
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 203, Total Bytes: 156280
+Model Raw Output: 0.01 *
+-5.6103 -290.8488
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945442
+Class 1 Probability: 0.0545581
+Predicted Class: 0, Confidence: 0.945442
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 204, Total Bytes: 157133
+Model Raw Output: 0.01 *
+-5.6104 -290.8471
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945441
+Class 1 Probability: 0.0545591
+Predicted Class: 0, Confidence: 0.945441
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 205, Total Bytes: 158272
+Model Raw Output: 0.01 *
+-5.6104 -290.8463
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94544
+Class 1 Probability: 0.0545595
+Predicted Class: 0, Confidence: 0.94544
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 206, Total Bytes: 158431
+Model Raw Output: 0.01 *
+-5.6107 -290.8425
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945438
+Class 1 Probability: 0.0545616
+Predicted Class: 0, Confidence: 0.945438
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 207, Total Bytes: 158765
+Model Raw Output: 0.01 *
+-5.6108 -290.8393
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945437
+Class 1 Probability: 0.0545634
+Predicted Class: 0, Confidence: 0.945437
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 208, Total Bytes: 159491
+Model Raw Output: 0.01 *
+-5.6110 -290.8372
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945435
+Class 1 Probability: 0.0545645
+Predicted Class: 0, Confidence: 0.945435
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 209, Total Bytes: 160167
+Model Raw Output: 0.01 *
+-5.6111 -290.8351
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945434
+Class 1 Probability: 0.0545656
+Predicted Class: 0, Confidence: 0.945434
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 210, Total Bytes: 161071
+Model Raw Output: 0.01 *
+-5.6112 -290.8336
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945434
+Class 1 Probability: 0.0545664
+Predicted Class: 0, Confidence: 0.945434
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 211, Total Bytes: 161508
+Model Raw Output: 0.01 *
+-5.6113 -290.8309
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945432
+Class 1 Probability: 0.0545679
+Predicted Class: 0, Confidence: 0.945432
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 212, Total Bytes: 162036
+Model Raw Output: 0.01 *
+-5.6115 -290.8283
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945431
+Class 1 Probability: 0.0545693
+Predicted Class: 0, Confidence: 0.945431
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 213, Total Bytes: 163130
+Model Raw Output: 0.01 *
+-5.6115 -290.8275
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94543
+Class 1 Probability: 0.0545698
+Predicted Class: 0, Confidence: 0.94543
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 214, Total Bytes: 164125
+Model Raw Output: 0.01 *
+-5.6116 -290.8264
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94543
+Class 1 Probability: 0.0545704
+Predicted Class: 0, Confidence: 0.94543
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 215, Total Bytes: 164280
+Model Raw Output: 0.01 *
+-5.6118 -290.8229
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945428
+Class 1 Probability: 0.0545723
+Predicted Class: 0, Confidence: 0.945428
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 216, Total Bytes: 165647
+Model Raw Output: 0.01 *
+-5.6118 -290.8229
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945428
+Class 1 Probability: 0.0545723
+Predicted Class: 0, Confidence: 0.945428
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 217, Total Bytes: 166278
+Model Raw Output: 0.01 *
+-5.6119 -290.8208
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945427
+Class 1 Probability: 0.0545735
+Predicted Class: 0, Confidence: 0.945427
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 218, Total Bytes: 166438
+Model Raw Output: 0.01 *
+-5.6121 -290.8174
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945425
+Class 1 Probability: 0.0545753
+Predicted Class: 0, Confidence: 0.945425
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 219, Total Bytes: 167371
+Model Raw Output: 0.01 *
+-5.6122 -290.8162
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945424
+Class 1 Probability: 0.0545759
+Predicted Class: 0, Confidence: 0.945424
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 220, Total Bytes: 167610
+Model Raw Output: 0.01 *
+-5.6123 -290.8131
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945422
+Class 1 Probability: 0.0545776
+Predicted Class: 0, Confidence: 0.945422
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 221, Total Bytes: 168651
+Model Raw Output: 0.01 *
+-5.6124 -290.8122
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945422
+Class 1 Probability: 0.0545781
+Predicted Class: 0, Confidence: 0.945422
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 222, Total Bytes: 169825
+Model Raw Output: 0.01 *
+-5.6124 -290.8117
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945422
+Class 1 Probability: 0.0545784
+Predicted Class: 0, Confidence: 0.945422
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 223, Total Bytes: 170827
+Model Raw Output: 0.01 *
+-5.6125 -290.8106
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945421
+Class 1 Probability: 0.054579
+Predicted Class: 0, Confidence: 0.945421
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 224, Total Bytes: 170906
+Model Raw Output: 0.01 *
+-5.6127 -290.8072
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945419
+Class 1 Probability: 0.0545808
+Predicted Class: 0, Confidence: 0.945419
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 225, Total Bytes: 171661
+Model Raw Output: 0.01 *
+-5.6128 -290.8056
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945418
+Class 1 Probability: 0.0545817
+Predicted Class: 0, Confidence: 0.945418
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 226, Total Bytes: 172744
+Model Raw Output: 0.01 *
+-5.6128 -290.8048
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945418
+Class 1 Probability: 0.0545821
+Predicted Class: 0, Confidence: 0.945418
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 227, Total Bytes: 173007
+Model Raw Output: 0.01 *
+-5.6130 -290.8020
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945416
+Class 1 Probability: 0.0545837
+Predicted Class: 0, Confidence: 0.945416
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 228, Total Bytes: 173078
+Model Raw Output: 0.01 *
+-5.6132 -290.7988
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945415
+Class 1 Probability: 0.0545854
+Predicted Class: 0, Confidence: 0.945415
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 229, Total Bytes: 174421
+Model Raw Output: 0.01 *
+-5.6132 -290.7987
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945414
+Class 1 Probability: 0.0545855
+Predicted Class: 0, Confidence: 0.945414
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 230, Total Bytes: 175103
+Model Raw Output: 0.01 *
+-5.6133 -290.7970
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945414
+Class 1 Probability: 0.0545864
+Predicted Class: 0, Confidence: 0.945414
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 231, Total Bytes: 176315
+Model Raw Output: 0.01 *
+-5.6133 -290.7965
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945413
+Class 1 Probability: 0.0545867
+Predicted Class: 0, Confidence: 0.945413
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 232, Total Bytes: 176420
+Model Raw Output: 0.01 *
+-5.6135 -290.7935
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945412
+Class 1 Probability: 0.0545883
+Predicted Class: 0, Confidence: 0.945412
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 233, Total Bytes: 177344
+Model Raw Output: 0.01 *
+-5.6135 -290.7924
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945411
+Class 1 Probability: 0.0545889
+Predicted Class: 0, Confidence: 0.945411
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 234, Total Bytes: 178016
+Model Raw Output: 0.01 *
+-5.6136 -290.7907
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545898
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 235, Total Bytes: 179143
+Model Raw Output: 0.01 *
+-5.6137 -290.7901
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545902
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 236, Total Bytes: 180480
+Model Raw Output: 0.01 *
+-5.6137 -290.7900
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545902
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 237, Total Bytes: 181862
+Model Raw Output: 0.01 *
+-5.6137 -290.7900
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545903
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 238, Total Bytes: 183351
+Model Raw Output: 0.01 *
+-5.6137 -290.7902
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545902
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 239, Total Bytes: 184838
+Model Raw Output: 0.01 *
+-5.6137 -290.7902
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94541
+Class 1 Probability: 0.0545901
+Predicted Class: 0, Confidence: 0.94541
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 240, Total Bytes: 185938
+Model Raw Output: 0.01 *
+-5.6137 -290.7895
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945409
+Class 1 Probability: 0.0545905
+Predicted Class: 0, Confidence: 0.945409
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 241, Total Bytes: 186418
+Model Raw Output: 0.01 *
+-5.6138 -290.7875
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945408
+Class 1 Probability: 0.0545916
+Predicted Class: 0, Confidence: 0.945408
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 242, Total Bytes: 186906
+Model Raw Output: 0.01 *
+-5.6139 -290.7855
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945407
+Class 1 Probability: 0.0545927
+Predicted Class: 0, Confidence: 0.945407
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 243, Total Bytes: 187013
+Model Raw Output: 0.01 *
+-5.6141 -290.7827
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945406
+Class 1 Probability: 0.0545942
+Predicted Class: 0, Confidence: 0.945406
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 244, Total Bytes: 187900
+Model Raw Output: 0.01 *
+-5.6142 -290.7816
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945405
+Class 1 Probability: 0.0545948
+Predicted Class: 0, Confidence: 0.945405
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 245, Total Bytes: 189313
+Model Raw Output: 0.01 *
+-5.6142 -290.7816
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945405
+Class 1 Probability: 0.0545948
+Predicted Class: 0, Confidence: 0.945405
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 246, Total Bytes: 190499
+Model Raw Output: 0.01 *
+-5.6142 -290.7811
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945405
+Class 1 Probability: 0.0545951
+Predicted Class: 0, Confidence: 0.945405
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 247, Total Bytes: 190838
+Model Raw Output: 0.01 *
+-5.6143 -290.7788
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945404
+Class 1 Probability: 0.0545963
+Predicted Class: 0, Confidence: 0.945404
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 248, Total Bytes: 191803
+Model Raw Output: 0.01 *
+-5.6144 -290.7779
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945403
+Class 1 Probability: 0.0545968
+Predicted Class: 0, Confidence: 0.945403
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 249, Total Bytes: 192533
+Model Raw Output: 0.01 *
+-5.6145 -290.7765
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945402
+Class 1 Probability: 0.0545976
+Predicted Class: 0, Confidence: 0.945402
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 250, Total Bytes: 193375
+Model Raw Output: 0.01 *
+-5.6145 -290.7753
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945402
+Class 1 Probability: 0.0545982
+Predicted Class: 0, Confidence: 0.945402
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 251, Total Bytes: 193630
+Model Raw Output: 0.01 *
+-5.6147 -290.7730
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945401
+Class 1 Probability: 0.0545995
+Predicted Class: 0, Confidence: 0.945401
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 252, Total Bytes: 194222
+Model Raw Output: 0.01 *
+-5.6148 -290.7714
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.9454
+Class 1 Probability: 0.0546004
+Predicted Class: 0, Confidence: 0.9454
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 253, Total Bytes: 195454
+Model Raw Output: 0.01 *
+-5.6148 -290.7710
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945399
+Class 1 Probability: 0.0546006
+Predicted Class: 0, Confidence: 0.945399
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 254, Total Bytes: 196385
+Model Raw Output: 0.01 *
+-5.6148 -290.7701
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945399
+Class 1 Probability: 0.0546011
+Predicted Class: 0, Confidence: 0.945399
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 255, Total Bytes: 196587
+Model Raw Output: 0.01 *
+-5.6150 -290.7677
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945398
+Class 1 Probability: 0.0546024
+Predicted Class: 0, Confidence: 0.945398
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 256, Total Bytes: 196658
+Model Raw Output: 0.01 *
+-5.6151 -290.7652
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945396
+Class 1 Probability: 0.0546038
+Predicted Class: 0, Confidence: 0.945396
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 257, Total Bytes: 196955
+Model Raw Output: 0.01 *
+-5.6152 -290.7631
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945395
+Class 1 Probability: 0.0546049
+Predicted Class: 0, Confidence: 0.945395
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 258, Total Bytes: 197203
+Model Raw Output: 0.01 *
+-5.6154 -290.7609
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945394
+Class 1 Probability: 0.0546061
+Predicted Class: 0, Confidence: 0.945394
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 259, Total Bytes: 198201
+Model Raw Output: 0.01 *
+-5.6154 -290.7602
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945394
+Class 1 Probability: 0.0546065
+Predicted Class: 0, Confidence: 0.945394
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 260, Total Bytes: 198631
+Model Raw Output: 0.01 *
+-5.6155 -290.7584
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945393
+Class 1 Probability: 0.0546075
+Predicted Class: 0, Confidence: 0.945393
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 261, Total Bytes: 200061
+Model Raw Output: 0.01 *
+-5.6155 -290.7584
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945393
+Class 1 Probability: 0.0546075
+Predicted Class: 0, Confidence: 0.945393
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 262, Total Bytes: 200883
+Model Raw Output: 0.01 *
+-5.6156 -290.7573
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945392
+Class 1 Probability: 0.0546081
+Predicted Class: 0, Confidence: 0.945392
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 263, Total Bytes: 201220
+Model Raw Output: 0.01 *
+-5.6157 -290.7554
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945391
+Class 1 Probability: 0.0546091
+Predicted Class: 0, Confidence: 0.945391
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 264, Total Bytes: 202389
+Model Raw Output: 0.01 *
+-5.6157 -290.7550
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945391
+Class 1 Probability: 0.0546094
+Predicted Class: 0, Confidence: 0.945391
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 265, Total Bytes: 203271
+Model Raw Output: 0.01 *
+-5.6158 -290.7541
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94539
+Class 1 Probability: 0.0546099
+Predicted Class: 0, Confidence: 0.94539
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 266, Total Bytes: 203760
+Model Raw Output: 0.01 *
+-5.6159 -290.7525
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945389
+Class 1 Probability: 0.0546107
+Predicted Class: 0, Confidence: 0.945389
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 267, Total Bytes: 204462
+Model Raw Output: 0.01 *
+-5.6159 -290.7512
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945389
+Class 1 Probability: 0.0546114
+Predicted Class: 0, Confidence: 0.945389
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 268, Total Bytes: 205299
+Model Raw Output: 0.01 *
+-5.6160 -290.7502
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945388
+Class 1 Probability: 0.054612
+Predicted Class: 0, Confidence: 0.945388
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 269, Total Bytes: 205735
+Model Raw Output: 0.01 *
+-5.6161 -290.7486
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945387
+Class 1 Probability: 0.0546129
+Predicted Class: 0, Confidence: 0.945387
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 270, Total Bytes: 206174
+Model Raw Output: 0.01 *
+-5.6162 -290.7469
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945386
+Class 1 Probability: 0.0546138
+Predicted Class: 0, Confidence: 0.945386
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 271, Total Bytes: 207514
+Model Raw Output: 0.01 *
+-5.6162 -290.7468
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945386
+Class 1 Probability: 0.0546138
+Predicted Class: 0, Confidence: 0.945386
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 272, Total Bytes: 208526
+Model Raw Output: 0.01 *
+-5.6162 -290.7461
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945386
+Class 1 Probability: 0.0546142
+Predicted Class: 0, Confidence: 0.945386
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 273, Total Bytes: 208859
+Model Raw Output: 0.01 *
+-5.6163 -290.7443
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945385
+Class 1 Probability: 0.0546152
+Predicted Class: 0, Confidence: 0.945385
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 274, Total Bytes: 209760
+Model Raw Output: 0.01 *
+-5.6164 -290.7435
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945384
+Class 1 Probability: 0.0546156
+Predicted Class: 0, Confidence: 0.945384
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 275, Total Bytes: 210448
+Model Raw Output: 0.01 *
+-5.6164 -290.7423
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945384
+Class 1 Probability: 0.0546163
+Predicted Class: 0, Confidence: 0.945384
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 276, Total Bytes: 211370
+Model Raw Output: 0.01 *
+-5.6165 -290.7415
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945383
+Class 1 Probability: 0.0546167
+Predicted Class: 0, Confidence: 0.945383
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 277, Total Bytes: 211711
+Model Raw Output: 0.01 *
+-5.6166 -290.7398
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945382
+Class 1 Probability: 0.0546176
+Predicted Class: 0, Confidence: 0.945382
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 278, Total Bytes: 212617
+Model Raw Output: 0.01 *
+-5.6166 -290.7390
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945382
+Class 1 Probability: 0.0546181
+Predicted Class: 0, Confidence: 0.945382
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 279, Total Bytes: 213295
+Model Raw Output: 0.01 *
+-5.6167 -290.7378
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945381
+Class 1 Probability: 0.0546187
+Predicted Class: 0, Confidence: 0.945381
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 280, Total Bytes: 213678
+Model Raw Output: 0.01 *
+-5.6168 -290.7363
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94538
+Class 1 Probability: 0.0546196
+Predicted Class: 0, Confidence: 0.94538
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 281, Total Bytes: 214105
+Model Raw Output: 0.01 *
+-5.6169 -290.7347
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94538
+Class 1 Probability: 0.0546204
+Predicted Class: 0, Confidence: 0.94538
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 282, Total Bytes: 215603
+Model Raw Output: 0.01 *
+-5.6169 -290.7349
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94538
+Class 1 Probability: 0.0546203
+Predicted Class: 0, Confidence: 0.94538
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 283, Total Bytes: 216426
+Model Raw Output: 0.01 *
+-5.6169 -290.7340
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945379
+Class 1 Probability: 0.0546208
+Predicted Class: 0, Confidence: 0.945379
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 284, Total Bytes: 216498
+Model Raw Output: 0.01 *
+-5.6170 -290.7320
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945378
+Class 1 Probability: 0.0546219
+Predicted Class: 0, Confidence: 0.945378
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 285, Total Bytes: 217617
+Model Raw Output: 0.01 *
+-5.6171 -290.7315
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945378
+Class 1 Probability: 0.0546222
+Predicted Class: 0, Confidence: 0.945378
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 286, Total Bytes: 218252
+Model Raw Output: 0.01 *
+-5.6171 -290.7304
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945377
+Class 1 Probability: 0.0546228
+Predicted Class: 0, Confidence: 0.945377
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 287, Total Bytes: 219122
+Model Raw Output: 0.01 *
+-5.6172 -290.7295
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945377
+Class 1 Probability: 0.0546233
+Predicted Class: 0, Confidence: 0.945377
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 288, Total Bytes: 219949
+Model Raw Output: 0.01 *
+-5.6172 -290.7287
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945376
+Class 1 Probability: 0.0546237
+Predicted Class: 0, Confidence: 0.945376
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 289, Total Bytes: 220699
+Model Raw Output: 0.01 *
+-5.6173 -290.7277
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945376
+Class 1 Probability: 0.0546243
+Predicted Class: 0, Confidence: 0.945376
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 290, Total Bytes: 221912
+Model Raw Output: 0.01 *
+-5.6173 -290.7274
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945376
+Class 1 Probability: 0.0546244
+Predicted Class: 0, Confidence: 0.945376
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 291, Total Bytes: 223116
+Model Raw Output: 0.01 *
+-5.6173 -290.7271
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945375
+Class 1 Probability: 0.0546246
+Predicted Class: 0, Confidence: 0.945375
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 292, Total Bytes: 223825
+Model Raw Output: 0.01 *
+-5.6174 -290.7261
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945375
+Class 1 Probability: 0.0546251
+Predicted Class: 0, Confidence: 0.945375
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 293, Total Bytes: 224467
+Model Raw Output: 0.01 *
+-5.6174 -290.7250
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945374
+Class 1 Probability: 0.0546257
+Predicted Class: 0, Confidence: 0.945374
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 294, Total Bytes: 224943
+Model Raw Output: 0.01 *
+-5.6175 -290.7237
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945374
+Class 1 Probability: 0.0546264
+Predicted Class: 0, Confidence: 0.945374
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 295, Total Bytes: 226438
+Model Raw Output: 0.01 *
+-5.6175 -290.7237
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945374
+Class 1 Probability: 0.0546264
+Predicted Class: 0, Confidence: 0.945374
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 296, Total Bytes: 227211
+Model Raw Output: 0.01 *
+-5.6176 -290.7228
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945373
+Class 1 Probability: 0.0546269
+Predicted Class: 0, Confidence: 0.945373
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 297, Total Bytes: 228208
+Model Raw Output: 0.01 *
+-5.6176 -290.7223
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945373
+Class 1 Probability: 0.0546272
+Predicted Class: 0, Confidence: 0.945373
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 298, Total Bytes: 229370
+Model Raw Output: 0.01 *
+-5.6176 -290.7219
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945373
+Class 1 Probability: 0.0546274
+Predicted Class: 0, Confidence: 0.945373
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 299, Total Bytes: 229526
+Model Raw Output: 0.01 *
+-5.6177 -290.7202
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945372
+Class 1 Probability: 0.0546284
+Predicted Class: 0, Confidence: 0.945372
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 300, Total Bytes: 230450
+Model Raw Output: 0.01 *
+-5.6178 -290.7195
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945371
+Class 1 Probability: 0.0546287
+Predicted Class: 0, Confidence: 0.945371
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 301, Total Bytes: 231947
+Model Raw Output: 0.01 *
+-5.6177 -290.7196
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945371
+Class 1 Probability: 0.0546287
+Predicted Class: 0, Confidence: 0.945371
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 302, Total Bytes: 232463
+Model Raw Output: 0.01 *
+-5.6178 -290.7184
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945371
+Class 1 Probability: 0.0546294
+Predicted Class: 0, Confidence: 0.945371
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 303, Total Bytes: 233860
+Model Raw Output: 0.01 *
+-5.6178 -290.7183
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945371
+Class 1 Probability: 0.0546294
+Predicted Class: 0, Confidence: 0.945371
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 304, Total Bytes: 234734
+Model Raw Output: 0.01 *
+-5.6179 -290.7176
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94537
+Class 1 Probability: 0.0546298
+Predicted Class: 0, Confidence: 0.94537
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 305, Total Bytes: 236072
+Model Raw Output: 0.01 *
+-5.6179 -290.7173
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94537
+Class 1 Probability: 0.0546299
+Predicted Class: 0, Confidence: 0.94537
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 306, Total Bytes: 236257
+Model Raw Output: 0.01 *
+-5.6180 -290.7158
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945369
+Class 1 Probability: 0.0546308
+Predicted Class: 0, Confidence: 0.945369
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 307, Total Bytes: 237375
+Model Raw Output: 0.01 *
+-5.6180 -290.7154
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945369
+Class 1 Probability: 0.054631
+Predicted Class: 0, Confidence: 0.945369
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 308, Total Bytes: 238388
+Model Raw Output: 0.01 *
+-5.6180 -290.7148
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945369
+Class 1 Probability: 0.0546313
+Predicted Class: 0, Confidence: 0.945369
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 309, Total Bytes: 239368
+Model Raw Output: 0.01 *
+-5.6181 -290.7142
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945368
+Class 1 Probability: 0.0546316
+Predicted Class: 0, Confidence: 0.945368
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 310, Total Bytes: 240526
+Model Raw Output: 0.01 *
+-5.6181 -290.7138
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945368
+Class 1 Probability: 0.0546319
+Predicted Class: 0, Confidence: 0.945368
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 311, Total Bytes: 240693
+Model Raw Output: 0.01 *
+-5.6182 -290.7122
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945367
+Class 1 Probability: 0.0546327
+Predicted Class: 0, Confidence: 0.945367
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 312, Total Bytes: 241970
+Model Raw Output: 0.01 *
+-5.6182 -290.7120
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945367
+Class 1 Probability: 0.0546328
+Predicted Class: 0, Confidence: 0.945367
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 313, Total Bytes: 242897
+Model Raw Output: 0.01 *
+-5.6182 -290.7114
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945367
+Class 1 Probability: 0.0546332
+Predicted Class: 0, Confidence: 0.945367
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 314, Total Bytes: 243883
+Model Raw Output: 0.01 *
+-5.6183 -290.7108
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945366
+Class 1 Probability: 0.0546335
+Predicted Class: 0, Confidence: 0.945366
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 315, Total Bytes: 244969
+Model Raw Output: 0.01 *
+-5.6183 -290.7103
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945366
+Class 1 Probability: 0.0546338
+Predicted Class: 0, Confidence: 0.945366
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 316, Total Bytes: 245160
+Model Raw Output: 0.01 *
+-5.6184 -290.7088
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945365
+Class 1 Probability: 0.0546346
+Predicted Class: 0, Confidence: 0.945365
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 317, Total Bytes: 245625
+Model Raw Output: 0.01 *
+-5.6184 -290.7077
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945365
+Class 1 Probability: 0.0546352
+Predicted Class: 0, Confidence: 0.945365
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 318, Total Bytes: 246791
+Model Raw Output: 0.01 *
+-5.6185 -290.7073
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945365
+Class 1 Probability: 0.0546354
+Predicted Class: 0, Confidence: 0.945365
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 319, Total Bytes: 247853
+Model Raw Output: 0.01 *
+-5.6185 -290.7068
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945364
+Class 1 Probability: 0.0546357
+Predicted Class: 0, Confidence: 0.945364
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 320, Total Bytes: 248675
+Model Raw Output: 0.01 *
+-5.6185 -290.7061
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945364
+Class 1 Probability: 0.0546361
+Predicted Class: 0, Confidence: 0.945364
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 321, Total Bytes: 249895
+Model Raw Output: 0.01 *
+-5.6185 -290.7058
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945364
+Class 1 Probability: 0.0546363
+Predicted Class: 0, Confidence: 0.945364
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 322, Total Bytes: 250139
+Model Raw Output: 0.01 *
+-5.6186 -290.7044
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945363
+Class 1 Probability: 0.054637
+Predicted Class: 0, Confidence: 0.945363
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 323, Total Bytes: 250218
+Model Raw Output: 0.01 *
+-5.6187 -290.7029
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945362
+Class 1 Probability: 0.0546378
+Predicted Class: 0, Confidence: 0.945362
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 324, Total Bytes: 251460
+Model Raw Output: 0.01 *
+-5.6187 -290.7027
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945362
+Class 1 Probability: 0.054638
+Predicted Class: 0, Confidence: 0.945362
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 325, Total Bytes: 251789
+Model Raw Output: 0.01 *
+-5.6188 -290.7015
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945361
+Class 1 Probability: 0.0546386
+Predicted Class: 0, Confidence: 0.945361
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 326, Total Bytes: 252816
+Model Raw Output: 0.01 *
+-5.6188 -290.7010
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945361
+Class 1 Probability: 0.0546389
+Predicted Class: 0, Confidence: 0.945361
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 327, Total Bytes: 254301
+Model Raw Output: 0.01 *
+-5.6188 -290.7009
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945361
+Class 1 Probability: 0.0546389
+Predicted Class: 0, Confidence: 0.945361
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 328, Total Bytes: 254667
+Model Raw Output: 0.01 *
+-5.6189 -290.6997
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94536
+Class 1 Probability: 0.0546395
+Predicted Class: 0, Confidence: 0.94536
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 329, Total Bytes: 255821
+Model Raw Output: 0.01 *
+-5.6189 -290.6994
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94536
+Class 1 Probability: 0.0546397
+Predicted Class: 0, Confidence: 0.94536
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 330, Total Bytes: 256515
+Model Raw Output: 0.01 *
+-5.6190 -290.6986
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94536
+Class 1 Probability: 0.0546402
+Predicted Class: 0, Confidence: 0.94536
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 331, Total Bytes: 256596
+Model Raw Output: 0.01 *
+-5.6190 -290.6972
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945359
+Class 1 Probability: 0.0546409
+Predicted Class: 0, Confidence: 0.945359
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 332, Total Bytes: 256835
+Model Raw Output: 0.01 *
+-5.6191 -290.6959
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945358
+Class 1 Probability: 0.0546416
+Predicted Class: 0, Confidence: 0.945358
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 333, Total Bytes: 257781
+Model Raw Output: 0.01 *
+-5.6191 -290.6954
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945358
+Class 1 Probability: 0.0546419
+Predicted Class: 0, Confidence: 0.945358
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 334, Total Bytes: 258457
+Model Raw Output: 0.01 *
+-5.6192 -290.6946
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945358
+Class 1 Probability: 0.0546424
+Predicted Class: 0, Confidence: 0.945358
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 335, Total Bytes: 259467
+Model Raw Output: 0.01 *
+-5.6192 -290.6941
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945357
+Class 1 Probability: 0.0546426
+Predicted Class: 0, Confidence: 0.945357
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 336, Total Bytes: 260545
+Model Raw Output: 0.01 *
+-5.6193 -290.6936
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945357
+Class 1 Probability: 0.0546429
+Predicted Class: 0, Confidence: 0.945357
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 337, Total Bytes: 261528
+Model Raw Output: 0.01 *
+-5.6193 -290.6931
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945357
+Class 1 Probability: 0.0546432
+Predicted Class: 0, Confidence: 0.945357
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 338, Total Bytes: 262283
+Model Raw Output: 0.01 *
+-5.6193 -290.6924
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945356
+Class 1 Probability: 0.0546435
+Predicted Class: 0, Confidence: 0.945356
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 339, Total Bytes: 262651
+Model Raw Output: 0.01 *
+-5.6194 -290.6913
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945356
+Class 1 Probability: 0.0546441
+Predicted Class: 0, Confidence: 0.945356
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 340, Total Bytes: 263740
+Model Raw Output: 0.01 *
+-5.6194 -290.6909
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945356
+Class 1 Probability: 0.0546443
+Predicted Class: 0, Confidence: 0.945356
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 341, Total Bytes: 264642
+Model Raw Output: 0.01 *
+-5.6194 -290.6903
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945355
+Class 1 Probability: 0.0546447
+Predicted Class: 0, Confidence: 0.945355
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 342, Total Bytes: 264832
+Model Raw Output: 0.01 *
+-5.6195 -290.6892
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945355
+Class 1 Probability: 0.0546453
+Predicted Class: 0, Confidence: 0.945355
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 343, Total Bytes: 265169
+Model Raw Output: 0.01 *
+-5.6196 -290.6881
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945354
+Class 1 Probability: 0.0546459
+Predicted Class: 0, Confidence: 0.945354
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 344, Total Bytes: 266188
+Model Raw Output: 0.01 *
+-5.6196 -290.6876
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945354
+Class 1 Probability: 0.0546462
+Predicted Class: 0, Confidence: 0.945354
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 345, Total Bytes: 267011
+Model Raw Output: 0.01 *
+-5.6196 -290.6870
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945354
+Class 1 Probability: 0.0546465
+Predicted Class: 0, Confidence: 0.945354
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 346, Total Bytes: 267664
+Model Raw Output: 0.01 *
+-5.6197 -290.6862
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945353
+Class 1 Probability: 0.0546469
+Predicted Class: 0, Confidence: 0.945353
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 347, Total Bytes: 267923
+Model Raw Output: 0.01 *
+-5.6197 -290.6852
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945352
+Class 1 Probability: 0.0546475
+Predicted Class: 0, Confidence: 0.945352
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 348, Total Bytes: 268105
+Model Raw Output: 0.01 *
+-5.6198 -290.6840
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945352
+Class 1 Probability: 0.0546481
+Predicted Class: 0, Confidence: 0.945352
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 349, Total Bytes: 269605
+Model Raw Output: 0.01 *
+-5.6198 -290.6840
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945352
+Class 1 Probability: 0.0546481
+Predicted Class: 0, Confidence: 0.945352
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 350, Total Bytes: 271017
+Model Raw Output: 0.01 *
+-5.6198 -290.6838
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945352
+Class 1 Probability: 0.0546482
+Predicted Class: 0, Confidence: 0.945352
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 351, Total Bytes: 271899
+Model Raw Output: 0.01 *
+-5.6198 -290.6833
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945352
+Class 1 Probability: 0.0546485
+Predicted Class: 0, Confidence: 0.945352
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 352, Total Bytes: 272989
+Model Raw Output: 0.01 *
+-5.6199 -290.6829
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945351
+Class 1 Probability: 0.0546487
+Predicted Class: 0, Confidence: 0.945351
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 353, Total Bytes: 274209
+Model Raw Output: 0.01 *
+-5.6199 -290.6827
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945351
+Class 1 Probability: 0.0546489
+Predicted Class: 0, Confidence: 0.945351
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 354, Total Bytes: 274881
+Model Raw Output: 0.01 *
+-5.6199 -290.6820
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945351
+Class 1 Probability: 0.0546493
+Predicted Class: 0, Confidence: 0.945351
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 355, Total Bytes: 275467
+Model Raw Output: 0.01 *
+-5.6200 -290.6811
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9454  0.0546
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94535
+Class 1 Probability: 0.0546497
+Predicted Class: 0, Confidence: 0.94535
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 356, Total Bytes: 275978
+Model Raw Output: 0.01 *
+-5.6200 -290.6803
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94535
+Class 1 Probability: 0.0546501
+Predicted Class: 0, Confidence: 0.94535
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 357, Total Bytes: 277465
+Model Raw Output: 0.01 *
+-5.6200 -290.6802
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94535
+Class 1 Probability: 0.0546502
+Predicted Class: 0, Confidence: 0.94535
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 358, Total Bytes: 277560
+Model Raw Output: 0.01 *
+-5.6201 -290.6791
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945349
+Class 1 Probability: 0.0546508
+Predicted Class: 0, Confidence: 0.945349
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 359, Total Bytes: 277843
+Model Raw Output: 0.01 *
+-5.6201 -290.6781
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945349
+Class 1 Probability: 0.0546514
+Predicted Class: 0, Confidence: 0.945349
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 360, Total Bytes: 279141
+Model Raw Output: 0.01 *
+-5.6202 -290.6779
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945349
+Class 1 Probability: 0.0546515
+Predicted Class: 0, Confidence: 0.945349
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 361, Total Bytes: 279256
+Model Raw Output: 0.01 *
+-5.6202 -290.6768
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945348
+Class 1 Probability: 0.0546521
+Predicted Class: 0, Confidence: 0.945348
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 362, Total Bytes: 280330
+Model Raw Output: 0.01 *
+-5.6202 -290.6764
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945348
+Class 1 Probability: 0.0546523
+Predicted Class: 0, Confidence: 0.945348
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 363, Total Bytes: 280619
+Model Raw Output: 0.01 *
+-5.6203 -290.6754
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945347
+Class 1 Probability: 0.0546528
+Predicted Class: 0, Confidence: 0.945347
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 364, Total Bytes: 281217
+Model Raw Output: 0.01 *
+-5.6204 -290.6747
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945347
+Class 1 Probability: 0.0546532
+Predicted Class: 0, Confidence: 0.945347
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 365, Total Bytes: 281923
+Model Raw Output: 0.01 *
+-5.6204 -290.6740
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945346
+Class 1 Probability: 0.0546536
+Predicted Class: 0, Confidence: 0.945346
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 366, Total Bytes: 282890
+Model Raw Output: 0.01 *
+-5.6204 -290.6736
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945346
+Class 1 Probability: 0.0546538
+Predicted Class: 0, Confidence: 0.945346
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 367, Total Bytes: 284086
+Model Raw Output: 0.01 *
+-5.6204 -290.6733
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945346
+Class 1 Probability: 0.054654
+Predicted Class: 0, Confidence: 0.945346
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 368, Total Bytes: 285120
+Model Raw Output: 0.01 *
+-5.6205 -290.6729
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945346
+Class 1 Probability: 0.0546542
+Predicted Class: 0, Confidence: 0.945346
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 369, Total Bytes: 286012
+Model Raw Output: 0.01 *
+-5.6205 -290.6724
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945346
+Class 1 Probability: 0.0546545
+Predicted Class: 0, Confidence: 0.945346
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 370, Total Bytes: 287261
+Model Raw Output: 0.01 *
+-5.6205 -290.6722
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945345
+Class 1 Probability: 0.0546546
+Predicted Class: 0, Confidence: 0.945345
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 371, Total Bytes: 287681
+Model Raw Output: 0.01 *
+-5.6205 -290.6713
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945345
+Class 1 Probability: 0.0546551
+Predicted Class: 0, Confidence: 0.945345
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 372, Total Bytes: 288510
+Model Raw Output: 0.01 *
+-5.6206 -290.6708
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945345
+Class 1 Probability: 0.0546553
+Predicted Class: 0, Confidence: 0.945345
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 373, Total Bytes: 289372
+Model Raw Output: 0.01 *
+-5.6206 -290.6703
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546556
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 374, Total Bytes: 290667
+Model Raw Output: 0.01 *
+-5.6206 -290.6701
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546557
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 375, Total Bytes: 291289
+Model Raw Output: 0.01 *
+-5.6207 -290.6694
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546561
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 376, Total Bytes: 292684
+Model Raw Output: 0.01 *
+-5.6207 -290.6693
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546562
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 377, Total Bytes: 294107
+Model Raw Output: 0.01 *
+-5.6207 -290.6692
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546563
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 378, Total Bytes: 295067
+Model Raw Output: 0.01 *
+-5.6207 -290.6687
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945344
+Class 1 Probability: 0.0546565
+Predicted Class: 0, Confidence: 0.945344
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 379, Total Bytes: 295217
+Model Raw Output: 0.01 *
+-5.6207 -290.6677
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945343
+Class 1 Probability: 0.054657
+Predicted Class: 0, Confidence: 0.945343
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 380, Total Bytes: 296168
+Model Raw Output: 0.01 *
+-5.6208 -290.6673
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945343
+Class 1 Probability: 0.0546573
+Predicted Class: 0, Confidence: 0.945343
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 381, Total Bytes: 297488
+Model Raw Output: 0.01 *
+-5.6208 -290.6671
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945343
+Class 1 Probability: 0.0546574
+Predicted Class: 0, Confidence: 0.945343
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 382, Total Bytes: 298025
+Model Raw Output: 0.01 *
+-5.6208 -290.6664
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945342
+Class 1 Probability: 0.0546578
+Predicted Class: 0, Confidence: 0.945342
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 383, Total Bytes: 298683
+Model Raw Output: 0.01 *
+-5.6209 -290.6658
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945342
+Class 1 Probability: 0.0546581
+Predicted Class: 0, Confidence: 0.945342
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 384, Total Bytes: 299086
+Model Raw Output: 0.01 *
+-5.6209 -290.6650
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945342
+Class 1 Probability: 0.0546585
+Predicted Class: 0, Confidence: 0.945342
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 385, Total Bytes: 299336
+Model Raw Output: 0.01 *
+-5.6210 -290.6641
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945341
+Class 1 Probability: 0.054659
+Predicted Class: 0, Confidence: 0.945341
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 386, Total Bytes: 300608
+Model Raw Output: 0.01 *
+-5.6210 -290.6639
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945341
+Class 1 Probability: 0.0546591
+Predicted Class: 0, Confidence: 0.945341
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 387, Total Bytes: 301450
+Model Raw Output: 0.01 *
+-5.6210 -290.6634
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945341
+Class 1 Probability: 0.0546594
+Predicted Class: 0, Confidence: 0.945341
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 388, Total Bytes: 302301
+Model Raw Output: 0.01 *
+-5.6210 -290.6629
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94534
+Class 1 Probability: 0.0546597
+Predicted Class: 0, Confidence: 0.94534
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 389, Total Bytes: 302579
+Model Raw Output: 0.01 *
+-5.6211 -290.6621
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94534
+Class 1 Probability: 0.0546601
+Predicted Class: 0, Confidence: 0.94534
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 390, Total Bytes: 303290
+Model Raw Output: 0.01 *
+-5.6211 -290.6615
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94534
+Class 1 Probability: 0.0546604
+Predicted Class: 0, Confidence: 0.94534
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 391, Total Bytes: 303850
+Model Raw Output: 0.01 *
+-5.6212 -290.6608
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945339
+Class 1 Probability: 0.0546608
+Predicted Class: 0, Confidence: 0.945339
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 392, Total Bytes: 303993
+Model Raw Output: 0.01 *
+-5.6212 -290.6599
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945339
+Class 1 Probability: 0.0546613
+Predicted Class: 0, Confidence: 0.945339
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 393, Total Bytes: 304601
+Model Raw Output: 0.01 *
+-5.6212 -290.6593
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945338
+Class 1 Probability: 0.0546616
+Predicted Class: 0, Confidence: 0.945338
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 394, Total Bytes: 304665
+Model Raw Output: 0.01 *
+-5.6213 -290.6584
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945338
+Class 1 Probability: 0.0546621
+Predicted Class: 0, Confidence: 0.945338
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 395, Total Bytes: 305361
+Model Raw Output: 0.01 *
+-5.6213 -290.6578
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945338
+Class 1 Probability: 0.0546624
+Predicted Class: 0, Confidence: 0.945338
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 396, Total Bytes: 306450
+Model Raw Output: 0.01 *
+-5.6213 -290.6576
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945337
+Class 1 Probability: 0.0546626
+Predicted Class: 0, Confidence: 0.945337
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 397, Total Bytes: 306641
+Model Raw Output: 0.01 *
+-5.6214 -290.6567
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945337
+Class 1 Probability: 0.0546631
+Predicted Class: 0, Confidence: 0.945337
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 398, Total Bytes: 306711
+Model Raw Output: 0.01 *
+-5.6214 -290.6558
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945336
+Class 1 Probability: 0.0546636
+Predicted Class: 0, Confidence: 0.945336
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 399, Total Bytes: 307496
+Model Raw Output: 0.01 *
+-5.6215 -290.6553
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945336
+Class 1 Probability: 0.0546638
+Predicted Class: 0, Confidence: 0.945336
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 400, Total Bytes: 307819
+Model Raw Output: 0.01 *
+-5.6215 -290.6545
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945336
+Class 1 Probability: 0.0546642
+Predicted Class: 0, Confidence: 0.945336
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 401, Total Bytes: 308631
+Model Raw Output: 0.01 *
+-5.6215 -290.6541
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945336
+Class 1 Probability: 0.0546645
+Predicted Class: 0, Confidence: 0.945336
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 402, Total Bytes: 309243
+Model Raw Output: 0.01 *
+-5.6216 -290.6535
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945335
+Class 1 Probability: 0.0546648
+Predicted Class: 0, Confidence: 0.945335
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 403, Total Bytes: 309660
+Model Raw Output: 0.01 *
+-5.6216 -290.6528
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945335
+Class 1 Probability: 0.0546652
+Predicted Class: 0, Confidence: 0.945335
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 404, Total Bytes: 310808
+Model Raw Output: 0.01 *
+-5.6216 -290.6526
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945335
+Class 1 Probability: 0.0546653
+Predicted Class: 0, Confidence: 0.945335
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 405, Total Bytes: 311657
+Model Raw Output: 0.01 *
+-5.6216 -290.6522
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945334
+Class 1 Probability: 0.0546655
+Predicted Class: 0, Confidence: 0.945334
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 406, Total Bytes: 311792
+Model Raw Output: 0.01 *
+-5.6217 -290.6513
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945334
+Class 1 Probability: 0.054666
+Predicted Class: 0, Confidence: 0.945334
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 407, Total Bytes: 312839
+Model Raw Output: 0.01 *
+-5.6217 -290.6510
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945334
+Class 1 Probability: 0.0546662
+Predicted Class: 0, Confidence: 0.945334
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 408, Total Bytes: 313122
+Model Raw Output: 0.01 *
+-5.6218 -290.6503
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945333
+Class 1 Probability: 0.0546666
+Predicted Class: 0, Confidence: 0.945333
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 409, Total Bytes: 314201
+Model Raw Output: 0.01 *
+-5.6218 -290.6500
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945333
+Class 1 Probability: 0.0546668
+Predicted Class: 0, Confidence: 0.945333
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 410, Total Bytes: 314512
+Model Raw Output: 0.01 *
+-5.6218 -290.6492
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945333
+Class 1 Probability: 0.0546671
+Predicted Class: 0, Confidence: 0.945333
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 411, Total Bytes: 314857
+Model Raw Output: 0.01 *
+-5.6219 -290.6486
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945332
+Class 1 Probability: 0.0546675
+Predicted Class: 0, Confidence: 0.945332
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 412, Total Bytes: 315235
+Model Raw Output: 0.01 *
+-5.6219 -290.6479
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945332
+Class 1 Probability: 0.0546679
+Predicted Class: 0, Confidence: 0.945332
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 413, Total Bytes: 315496
+Model Raw Output: 0.01 *
+-5.6219 -290.6471
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945332
+Class 1 Probability: 0.0546683
+Predicted Class: 0, Confidence: 0.945332
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 414, Total Bytes: 316420
+Model Raw Output: 0.01 *
+-5.6220 -290.6468
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945332
+Class 1 Probability: 0.0546685
+Predicted Class: 0, Confidence: 0.945332
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 415, Total Bytes: 317621
+Model Raw Output: 0.01 *
+-5.6220 -290.6466
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945331
+Class 1 Probability: 0.0546686
+Predicted Class: 0, Confidence: 0.945331
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 416, Total Bytes: 317727
+Model Raw Output: 0.01 *
+-5.6220 -290.6458
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945331
+Class 1 Probability: 0.054669
+Predicted Class: 0, Confidence: 0.945331
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 417, Total Bytes: 317781
+Model Raw Output: 0.01 *
+-5.6221 -290.6450
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945331
+Class 1 Probability: 0.0546695
+Predicted Class: 0, Confidence: 0.945331
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 418, Total Bytes: 318421
+Model Raw Output: 0.01 *
+-5.6221 -290.6445
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94533
+Class 1 Probability: 0.0546698
+Predicted Class: 0, Confidence: 0.94533
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 419, Total Bytes: 318863
+Model Raw Output: 0.01 *
+-5.6221 -290.6439
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94533
+Class 1 Probability: 0.0546701
+Predicted Class: 0, Confidence: 0.94533
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 420, Total Bytes: 319560
+Model Raw Output: 0.01 *
+-5.6222 -290.6434
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94533
+Class 1 Probability: 0.0546704
+Predicted Class: 0, Confidence: 0.94533
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 421, Total Bytes: 319959
+Model Raw Output: 0.01 *
+-5.6222 -290.6428
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945329
+Class 1 Probability: 0.0546707
+Predicted Class: 0, Confidence: 0.945329
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 422, Total Bytes: 320877
+Model Raw Output: 0.01 *
+-5.6222 -290.6424
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945329
+Class 1 Probability: 0.0546709
+Predicted Class: 0, Confidence: 0.945329
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 423, Total Bytes: 321739
+Model Raw Output: 0.01 *
+-5.6222 -290.6421
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945329
+Class 1 Probability: 0.0546711
+Predicted Class: 0, Confidence: 0.945329
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 424, Total Bytes: 321873
+Model Raw Output: 0.01 *
+-5.6223 -290.6413
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945329
+Class 1 Probability: 0.0546715
+Predicted Class: 0, Confidence: 0.945329
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 425, Total Bytes: 322783
+Model Raw Output: 0.01 *
+-5.6223 -290.6410
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546717
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 426, Total Bytes: 324221
+Model Raw Output: 0.01 *
+-5.6223 -290.6409
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546717
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 427, Total Bytes: 325687
+Model Raw Output: 0.01 *
+-5.6223 -290.6408
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546717
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 428, Total Bytes: 327120
+Model Raw Output: 0.01 *
+-5.6223 -290.6408
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546718
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 429, Total Bytes: 327264
+Model Raw Output: 0.01 *
+-5.6224 -290.6400
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546722
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 430, Total Bytes: 328575
+Model Raw Output: 0.01 *
+-5.6224 -290.6399
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945328
+Class 1 Probability: 0.0546723
+Predicted Class: 0, Confidence: 0.945328
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 431, Total Bytes: 328937
+Model Raw Output: 0.01 *
+-5.6224 -290.6392
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945327
+Class 1 Probability: 0.0546726
+Predicted Class: 0, Confidence: 0.945327
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 432, Total Bytes: 329183
+Model Raw Output: 0.01 *
+-5.6224 -290.6386
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945327
+Class 1 Probability: 0.054673
+Predicted Class: 0, Confidence: 0.945327
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 433, Total Bytes: 330528
+Model Raw Output: 0.01 *
+-5.6224 -290.6384
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945327
+Class 1 Probability: 0.054673
+Predicted Class: 0, Confidence: 0.945327
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 434, Total Bytes: 332006
+Model Raw Output: 0.01 *
+-5.6224 -290.6384
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945327
+Class 1 Probability: 0.0546731
+Predicted Class: 0, Confidence: 0.945327
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 435, Total Bytes: 332708
+Model Raw Output: 0.01 *
+-5.6225 -290.6380
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945327
+Class 1 Probability: 0.0546733
+Predicted Class: 0, Confidence: 0.945327
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 436, Total Bytes: 333009
+Model Raw Output: 0.01 *
+-5.6225 -290.6374
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945326
+Class 1 Probability: 0.0546736
+Predicted Class: 0, Confidence: 0.945326
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 437, Total Bytes: 334259
+Model Raw Output: 0.01 *
+-5.6225 -290.6372
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945326
+Class 1 Probability: 0.0546737
+Predicted Class: 0, Confidence: 0.945326
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 438, Total Bytes: 334749
+Model Raw Output: 0.01 *
+-5.6225 -290.6367
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945326
+Class 1 Probability: 0.054674
+Predicted Class: 0, Confidence: 0.945326
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 439, Total Bytes: 335209
+Model Raw Output: 0.01 *
+-5.6226 -290.6361
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945326
+Class 1 Probability: 0.0546743
+Predicted Class: 0, Confidence: 0.945326
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 440, Total Bytes: 335538
+Model Raw Output: 0.01 *
+-5.6226 -290.6356
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945325
+Class 1 Probability: 0.0546746
+Predicted Class: 0, Confidence: 0.945325
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 441, Total Bytes: 336697
+Model Raw Output: 0.01 *
+-5.6226 -290.6353
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945325
+Class 1 Probability: 0.0546747
+Predicted Class: 0, Confidence: 0.945325
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 442, Total Bytes: 337699
+Model Raw Output: 0.01 *
+-5.6226 -290.6351
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945325
+Class 1 Probability: 0.0546749
+Predicted Class: 0, Confidence: 0.945325
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 443, Total Bytes: 338339
+Model Raw Output: 0.01 *
+-5.6227 -290.6346
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945325
+Class 1 Probability: 0.0546751
+Predicted Class: 0, Confidence: 0.945325
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 444, Total Bytes: 339055
+Model Raw Output: 0.01 *
+-5.6227 -290.6342
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945325
+Class 1 Probability: 0.0546754
+Predicted Class: 0, Confidence: 0.945325
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 445, Total Bytes: 339431
+Model Raw Output: 0.01 *
+-5.6227 -290.6336
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945324
+Class 1 Probability: 0.0546757
+Predicted Class: 0, Confidence: 0.945324
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 446, Total Bytes: 339871
+Model Raw Output: 0.01 *
+-5.6228 -290.6331
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945324
+Class 1 Probability: 0.0546759
+Predicted Class: 0, Confidence: 0.945324
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 447, Total Bytes: 340028
+Model Raw Output: 0.01 *
+-5.6228 -290.6325
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945324
+Class 1 Probability: 0.0546763
+Predicted Class: 0, Confidence: 0.945324
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 448, Total Bytes: 341030
+Model Raw Output: 0.01 *
+-5.6228 -290.6322
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945324
+Class 1 Probability: 0.0546765
+Predicted Class: 0, Confidence: 0.945324
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 449, Total Bytes: 341230
+Model Raw Output: 0.01 *
+-5.6228 -290.6316
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945323
+Class 1 Probability: 0.0546768
+Predicted Class: 0, Confidence: 0.945323
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 450, Total Bytes: 341559
+Model Raw Output: 0.01 *
+-5.6229 -290.6310
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945323
+Class 1 Probability: 0.0546771
+Predicted Class: 0, Confidence: 0.945323
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 451, Total Bytes: 341994
+Model Raw Output: 0.01 *
+-5.6229 -290.6305
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945323
+Class 1 Probability: 0.0546774
+Predicted Class: 0, Confidence: 0.945323
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 452, Total Bytes: 343257
+Model Raw Output: 0.01 *
+-5.6229 -290.6304
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945323
+Class 1 Probability: 0.0546774
+Predicted Class: 0, Confidence: 0.945323
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 453, Total Bytes: 344081
+Model Raw Output: 0.01 *
+-5.6229 -290.6300
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546776
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 454, Total Bytes: 345191
+Model Raw Output: 0.01 *
+-5.6229 -290.6298
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546778
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 455, Total Bytes: 345306
+Model Raw Output: 0.01 *
+-5.6230 -290.6292
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546781
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 456, Total Bytes: 346495
+Model Raw Output: 0.01 *
+-5.6230 -290.6290
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546782
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 457, Total Bytes: 347636
+Model Raw Output: 0.01 *
+-5.6230 -290.6288
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546783
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 458, Total Bytes: 348930
+Model Raw Output: 0.01 *
+-5.6230 -290.6286
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945322
+Class 1 Probability: 0.0546784
+Predicted Class: 0, Confidence: 0.945322
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 459, Total Bytes: 349799
+Model Raw Output: 0.01 *
+-5.6230 -290.6283
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945321
+Class 1 Probability: 0.0546786
+Predicted Class: 0, Confidence: 0.945321
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 460, Total Bytes: 350753
+Model Raw Output: 0.01 *
+-5.6230 -290.6280
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945321
+Class 1 Probability: 0.0546788
+Predicted Class: 0, Confidence: 0.945321
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 461, Total Bytes: 351013
+Model Raw Output: 0.01 *
+-5.6231 -290.6275
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945321
+Class 1 Probability: 0.054679
+Predicted Class: 0, Confidence: 0.945321
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 462, Total Bytes: 351627
+Model Raw Output: 0.01 *
+-5.6231 -290.6271
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945321
+Class 1 Probability: 0.0546793
+Predicted Class: 0, Confidence: 0.945321
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 463, Total Bytes: 352655
+Model Raw Output: 0.01 *
+-5.6231 -290.6268
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945321
+Class 1 Probability: 0.0546794
+Predicted Class: 0, Confidence: 0.945321
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 464, Total Bytes: 353509
+Model Raw Output: 0.01 *
+-5.6231 -290.6265
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94532
+Class 1 Probability: 0.0546796
+Predicted Class: 0, Confidence: 0.94532
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 465, Total Bytes: 353667
+Model Raw Output: 0.01 *
+-5.6232 -290.6259
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94532
+Class 1 Probability: 0.0546799
+Predicted Class: 0, Confidence: 0.94532
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 466, Total Bytes: 354279
+Model Raw Output: 0.01 *
+-5.6232 -290.6255
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94532
+Class 1 Probability: 0.0546801
+Predicted Class: 0, Confidence: 0.94532
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 467, Total Bytes: 354934
+Model Raw Output: 0.01 *
+-5.6232 -290.6251
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.94532
+Class 1 Probability: 0.0546804
+Predicted Class: 0, Confidence: 0.94532
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 468, Total Bytes: 355404
+Model Raw Output: 0.01 *
+-5.6232 -290.6246
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546806
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 469, Total Bytes: 356359
+Model Raw Output: 0.01 *
+-5.6233 -290.6244
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546808
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 470, Total Bytes: 356458
+Model Raw Output: 0.01 *
+-5.6233 -290.6238
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546811
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 471, Total Bytes: 357194
+Model Raw Output: 0.01 *
+-5.6233 -290.6234
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546813
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 472, Total Bytes: 358027
+Model Raw Output: 0.01 *
+-5.6233 -290.6231
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546814
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 473, Total Bytes: 359091
+Model Raw Output: 0.01 *
+-5.6233 -290.6229
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945319
+Class 1 Probability: 0.0546815
+Predicted Class: 0, Confidence: 0.945319
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 474, Total Bytes: 360482
+Model Raw Output: 0.01 *
+-5.6233 -290.6228
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.0546816
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 475, Total Bytes: 361371
+Model Raw Output: 0.01 *
+-5.6234 -290.6225
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.0546818
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 476, Total Bytes: 362017
+Model Raw Output: 0.01 *
+-5.6234 -290.6221
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.054682
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 477, Total Bytes: 362762
+Model Raw Output: 0.01 *
+-5.6234 -290.6218
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.0546822
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 478, Total Bytes: 364077
+Model Raw Output: 0.01 *
+-5.6234 -290.6216
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.0546822
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 479, Total Bytes: 365509
+Model Raw Output: 0.01 *
+-5.6234 -290.6215
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945318
+Class 1 Probability: 0.0546823
+Predicted Class: 0, Confidence: 0.945318
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 480, Total Bytes: 365561
+Model Raw Output: 0.01 *
+-5.6234 -290.6209
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945317
+Class 1 Probability: 0.0546826
+Predicted Class: 0, Confidence: 0.945317
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 481, Total Bytes: 366018
+Model Raw Output: 0.01 *
+-5.6235 -290.6205
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945317
+Class 1 Probability: 0.0546829
+Predicted Class: 0, Confidence: 0.945317
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 482, Total Bytes: 366140
+Model Raw Output: 0.01 *
+-5.6235 -290.6199
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945317
+Class 1 Probability: 0.0546831
+Predicted Class: 0, Confidence: 0.945317
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 483, Total Bytes: 366737
+Model Raw Output: 0.01 *
+-5.6235 -290.6196
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945317
+Class 1 Probability: 0.0546834
+Predicted Class: 0, Confidence: 0.945317
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 484, Total Bytes: 366788
+Model Raw Output: 0.01 *
+-5.6236 -290.6190
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945316
+Class 1 Probability: 0.0546837
+Predicted Class: 0, Confidence: 0.945316
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 485, Total Bytes: 367371
+Model Raw Output: 0.01 *
+-5.6236 -290.6187
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945316
+Class 1 Probability: 0.0546839
+Predicted Class: 0, Confidence: 0.945316
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 486, Total Bytes: 368051
+Model Raw Output: 0.01 *
+-5.6236 -290.6183
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945316
+Class 1 Probability: 0.0546841
+Predicted Class: 0, Confidence: 0.945316
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 487, Total Bytes: 369248
+Model Raw Output: 0.01 *
+-5.6236 -290.6181
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945316
+Class 1 Probability: 0.0546842
+Predicted Class: 0, Confidence: 0.945316
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 488, Total Bytes: 369311
+Model Raw Output: 0.01 *
+-5.6237 -290.6176
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945316
+Class 1 Probability: 0.0546844
+Predicted Class: 0, Confidence: 0.945316
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 489, Total Bytes: 369690
+Model Raw Output: 0.01 *
+-5.6237 -290.6172
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945315
+Class 1 Probability: 0.0546847
+Predicted Class: 0, Confidence: 0.945315
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 490, Total Bytes: 370239
+Model Raw Output: 0.01 *
+-5.6237 -290.6168
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945315
+Class 1 Probability: 0.0546849
+Predicted Class: 0, Confidence: 0.945315
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 491, Total Bytes: 370741
+Model Raw Output: 0.01 *
+-5.6237 -290.6164
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945315
+Class 1 Probability: 0.0546851
+Predicted Class: 0, Confidence: 0.945315
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 492, Total Bytes: 370825
+Model Raw Output: 0.01 *
+-5.6238 -290.6158
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945315
+Class 1 Probability: 0.0546854
+Predicted Class: 0, Confidence: 0.945315
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 493, Total Bytes: 372172
+Model Raw Output: 0.01 *
+-5.6238 -290.6157
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945315
+Class 1 Probability: 0.0546855
+Predicted Class: 0, Confidence: 0.945315
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 494, Total Bytes: 373640
+Model Raw Output: 0.01 *
+-5.6238 -290.6156
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546855
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 495, Total Bytes: 375058
+Model Raw Output: 0.01 *
+-5.6238 -290.6155
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546856
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 496, Total Bytes: 375896
+Model Raw Output: 0.01 *
+-5.6238 -290.6152
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546857
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 497, Total Bytes: 377232
+Model Raw Output: 0.01 *
+-5.6238 -290.6151
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546858
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 498, Total Bytes: 377544
+Model Raw Output: 0.01 *
+-5.6238 -290.6147
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.054686
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 499, Total Bytes: 378884
+Model Raw Output: 0.01 *
+-5.6238 -290.6145
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546861
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+
+--- Flow Analysis ---
+Source: 192.168.1.100:80 -> Dest: 10.0.0.1:443 (Protocol: 6)
+Packet Count: 500, Total Bytes: 380289
+Model Raw Output: 0.01 *
+-5.6238 -290.6145
+[ MPSFloatType{1,2} ]
+Softmax Probabilities:  0.9453  0.0547
+[ MPSFloatType{1,2} ]
+Class 0 Probability: 0.945314
+Class 1 Probability: 0.0546862
+Predicted Class: 0, Confidence: 0.945314
+Anomaly Detected: NO
+
+Total Execution Time: 63774 milliseconds
